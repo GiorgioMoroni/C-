@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\utente\\Desktop\\Academy_C#\\Lez04_04_Utilizzo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC840907-0C06-4983-B1CD-72ACE5DA1AC8}|Lez04_04_Utilizzo\\Lez04_04_Utilizzo.csproj|c:\\users\\utente\\desktop\\academy_c#\\lez04_04_utilizzo\\lez04_04_utilizzo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC840907-0C06-4983-B1CD-72ACE5DA1AC8}|Lez04_04_Utilizzo\\Lez04_04_Utilizzo.csproj|solutionrelative:lez04_04_utilizzo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC840907-0C06-4983-B1CD-72ACE5DA1AC8}|Lez04_04_Utilizzo\\Lez04_04_Utilizzo.csproj|c:\\users\\utente\\desktop\\academy_c#\\lez04_04_utilizzo\\lez04_04_utilizzo\\indirizzo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC840907-0C06-4983-B1CD-72ACE5DA1AC8}|Lez04_04_Utilizzo\\Lez04_04_Utilizzo.csproj|solutionrelative:lez04_04_utilizzo\\indirizzo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC840907-0C06-4983-B1CD-72ACE5DA1AC8}|Lez04_04_Utilizzo\\Lez04_04_Utilizzo.csproj|c:\\users\\utente\\desktop\\academy_c#\\lez04_04_utilizzo\\lez04_04_utilizzo\\utente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC840907-0C06-4983-B1CD-72ACE5DA1AC8}|Lez04_04_Utilizzo\\Lez04_04_Utilizzo.csproj|solutionrelative:lez04_04_utilizzo\\utente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 339,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Indirizzo.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Academy_C#\\Lez04_04_Utilizzo\\Lez04_04_Utilizzo\\Indirizzo.cs",
+              "RelativeDocumentMoniker": "Lez04_04_Utilizzo\\Indirizzo.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Academy_C#\\Lez04_04_Utilizzo\\Lez04_04_Utilizzo\\Indirizzo.cs",
+              "RelativeToolTip": "Lez04_04_Utilizzo\\Indirizzo.cs",
+              "ViewState": "AQIAAAEAAADAmZmZmZkNwBIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T11:03:06.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Utente.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Academy_C#\\Lez04_04_Utilizzo\\Lez04_04_Utilizzo\\Utente.cs",
+              "RelativeDocumentMoniker": "Lez04_04_Utilizzo\\Utente.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Academy_C#\\Lez04_04_Utilizzo\\Lez04_04_Utilizzo\\Utente.cs",
+              "RelativeToolTip": "Lez04_04_Utilizzo\\Utente.cs",
+              "ViewState": "AQIAAA0AAABA/v////8owCEAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T10:56:36.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Academy_C#\\Lez04_04_Utilizzo\\Lez04_04_Utilizzo\\Program.cs",
+              "RelativeDocumentMoniker": "Lez04_04_Utilizzo\\Program.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Academy_C#\\Lez04_04_Utilizzo\\Lez04_04_Utilizzo\\Program.cs",
+              "RelativeToolTip": "Lez04_04_Utilizzo\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T10:54:30.459Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

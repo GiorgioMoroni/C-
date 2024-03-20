@@ -1,0 +1,14 @@
+C:\Users\utente\Desktop\Academy_C#\Lez03_05_ClassiEdOggetti\Lez03_05_ClassiEdOggetti\bin\Debug\net8.0\Lez03_05_ClassiEdOggetti.exe
+C:\Users\utente\Desktop\Academy_C#\Lez03_05_ClassiEdOggetti\Lez03_05_ClassiEdOggetti\bin\Debug\net8.0\Lez03_05_ClassiEdOggetti.deps.json
+C:\Users\utente\Desktop\Academy_C#\Lez03_05_ClassiEdOggetti\Lez03_05_ClassiEdOggetti\bin\Debug\net8.0\Lez03_05_ClassiEdOggetti.runtimeconfig.json
+C:\Users\utente\Desktop\Academy_C#\Lez03_05_ClassiEdOggetti\Lez03_05_ClassiEdOggetti\bin\Debug\net8.0\Lez03_05_ClassiEdOggetti.dll
+C:\Users\utente\Desktop\Academy_C#\Lez03_05_ClassiEdOggetti\Lez03_05_ClassiEdOggetti\bin\Debug\net8.0\Lez03_05_ClassiEdOggetti.pdb
+C:\Users\utente\Desktop\Academy_C#\Lez03_05_ClassiEdOggetti\Lez03_05_ClassiEdOggetti\obj\Debug\net8.0\Lez03_05_ClassiEdOggetti.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\utente\Desktop\Academy_C#\Lez03_05_ClassiEdOggetti\Lez03_05_ClassiEdOggetti\obj\Debug\net8.0\Lez03_05_ClassiEdOggetti.AssemblyInfoInputs.cache
+C:\Users\utente\Desktop\Academy_C#\Lez03_05_ClassiEdOggetti\Lez03_05_ClassiEdOggetti\obj\Debug\net8.0\Lez03_05_ClassiEdOggetti.AssemblyInfo.cs
+C:\Users\utente\Desktop\Academy_C#\Lez03_05_ClassiEdOggetti\Lez03_05_ClassiEdOggetti\obj\Debug\net8.0\Lez03_05_ClassiEdOggetti.csproj.CoreCompileInputs.cache
+C:\Users\utente\Desktop\Academy_C#\Lez03_05_ClassiEdOggetti\Lez03_05_ClassiEdOggetti\obj\Debug\net8.0\Lez03_05_ClassiEdOggetti.dll
+C:\Users\utente\Desktop\Academy_C#\Lez03_05_ClassiEdOggetti\Lez03_05_ClassiEdOggetti\obj\Debug\net8.0\refint\Lez03_05_ClassiEdOggetti.dll
+C:\Users\utente\Desktop\Academy_C#\Lez03_05_ClassiEdOggetti\Lez03_05_ClassiEdOggetti\obj\Debug\net8.0\Lez03_05_ClassiEdOggetti.pdb
+C:\Users\utente\Desktop\Academy_C#\Lez03_05_ClassiEdOggetti\Lez03_05_ClassiEdOggetti\obj\Debug\net8.0\Lez03_05_ClassiEdOggetti.genruntimeconfig.cache
+C:\Users\utente\Desktop\Academy_C#\Lez03_05_ClassiEdOggetti\Lez03_05_ClassiEdOggetti\obj\Debug\net8.0\ref\Lez03_05_ClassiEdOggetti.dll

@@ -1,0 +1,14 @@
+C:\Users\utente\Desktop\Academy_C#\Lez04_02_TaskVeicoli\Lez04_02_TaskVeicoli\bin\Debug\net8.0\Lez04_02_TaskVeicoli.exe
+C:\Users\utente\Desktop\Academy_C#\Lez04_02_TaskVeicoli\Lez04_02_TaskVeicoli\bin\Debug\net8.0\Lez04_02_TaskVeicoli.deps.json
+C:\Users\utente\Desktop\Academy_C#\Lez04_02_TaskVeicoli\Lez04_02_TaskVeicoli\bin\Debug\net8.0\Lez04_02_TaskVeicoli.runtimeconfig.json
+C:\Users\utente\Desktop\Academy_C#\Lez04_02_TaskVeicoli\Lez04_02_TaskVeicoli\bin\Debug\net8.0\Lez04_02_TaskVeicoli.dll
+C:\Users\utente\Desktop\Academy_C#\Lez04_02_TaskVeicoli\Lez04_02_TaskVeicoli\bin\Debug\net8.0\Lez04_02_TaskVeicoli.pdb
+C:\Users\utente\Desktop\Academy_C#\Lez04_02_TaskVeicoli\Lez04_02_TaskVeicoli\obj\Debug\net8.0\Lez04_02_TaskVeicoli.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\utente\Desktop\Academy_C#\Lez04_02_TaskVeicoli\Lez04_02_TaskVeicoli\obj\Debug\net8.0\Lez04_02_TaskVeicoli.AssemblyInfoInputs.cache
+C:\Users\utente\Desktop\Academy_C#\Lez04_02_TaskVeicoli\Lez04_02_TaskVeicoli\obj\Debug\net8.0\Lez04_02_TaskVeicoli.AssemblyInfo.cs
+C:\Users\utente\Desktop\Academy_C#\Lez04_02_TaskVeicoli\Lez04_02_TaskVeicoli\obj\Debug\net8.0\Lez04_02_TaskVeicoli.csproj.CoreCompileInputs.cache
+C:\Users\utente\Desktop\Academy_C#\Lez04_02_TaskVeicoli\Lez04_02_TaskVeicoli\obj\Debug\net8.0\Lez04_02_TaskVeicoli.dll
+C:\Users\utente\Desktop\Academy_C#\Lez04_02_TaskVeicoli\Lez04_02_TaskVeicoli\obj\Debug\net8.0\refint\Lez04_02_TaskVeicoli.dll
+C:\Users\utente\Desktop\Academy_C#\Lez04_02_TaskVeicoli\Lez04_02_TaskVeicoli\obj\Debug\net8.0\Lez04_02_TaskVeicoli.pdb
+C:\Users\utente\Desktop\Academy_C#\Lez04_02_TaskVeicoli\Lez04_02_TaskVeicoli\obj\Debug\net8.0\Lez04_02_TaskVeicoli.genruntimeconfig.cache
+C:\Users\utente\Desktop\Academy_C#\Lez04_02_TaskVeicoli\Lez04_02_TaskVeicoli\obj\Debug\net8.0\ref\Lez04_02_TaskVeicoli.dll

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lez04_04_Utilizzo", "Lez04_04_Utilizzo\Lez04_04_Utilizzo.csproj", "{BC840907-0C06-4983-B1CD-72ACE5DA1AC8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC840907-0C06-4983-B1CD-72ACE5DA1AC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC840907-0C06-4983-B1CD-72ACE5DA1AC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC840907-0C06-4983-B1CD-72ACE5DA1AC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC840907-0C06-4983-B1CD-72ACE5DA1AC8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DDB15C0C-35B3-4B17-945F-956608785170}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,14 @@
+C:\Users\utente\Desktop\Academy_C#\Lez03_04_MetodiInnestati\Lez03_04_MetodiInnestati\obj\Debug\net8.0\Lez03_04_MetodiInnestati.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\utente\Desktop\Academy_C#\Lez03_04_MetodiInnestati\Lez03_04_MetodiInnestati\obj\Debug\net8.0\Lez03_04_MetodiInnestati.AssemblyInfoInputs.cache
+C:\Users\utente\Desktop\Academy_C#\Lez03_04_MetodiInnestati\Lez03_04_MetodiInnestati\obj\Debug\net8.0\Lez03_04_MetodiInnestati.AssemblyInfo.cs
+C:\Users\utente\Desktop\Academy_C#\Lez03_04_MetodiInnestati\Lez03_04_MetodiInnestati\obj\Debug\net8.0\Lez03_04_MetodiInnestati.csproj.CoreCompileInputs.cache
+C:\Users\utente\Desktop\Academy_C#\Lez03_04_MetodiInnestati\Lez03_04_MetodiInnestati\bin\Debug\net8.0\Lez03_04_MetodiInnestati.exe
+C:\Users\utente\Desktop\Academy_C#\Lez03_04_MetodiInnestati\Lez03_04_MetodiInnestati\bin\Debug\net8.0\Lez03_04_MetodiInnestati.deps.json
+C:\Users\utente\Desktop\Academy_C#\Lez03_04_MetodiInnestati\Lez03_04_MetodiInnestati\bin\Debug\net8.0\Lez03_04_MetodiInnestati.runtimeconfig.json
+C:\Users\utente\Desktop\Academy_C#\Lez03_04_MetodiInnestati\Lez03_04_MetodiInnestati\bin\Debug\net8.0\Lez03_04_MetodiInnestati.dll
+C:\Users\utente\Desktop\Academy_C#\Lez03_04_MetodiInnestati\Lez03_04_MetodiInnestati\bin\Debug\net8.0\Lez03_04_MetodiInnestati.pdb
+C:\Users\utente\Desktop\Academy_C#\Lez03_04_MetodiInnestati\Lez03_04_MetodiInnestati\obj\Debug\net8.0\Lez03_04_MetodiInnestati.dll
+C:\Users\utente\Desktop\Academy_C#\Lez03_04_MetodiInnestati\Lez03_04_MetodiInnestati\obj\Debug\net8.0\refint\Lez03_04_MetodiInnestati.dll
+C:\Users\utente\Desktop\Academy_C#\Lez03_04_MetodiInnestati\Lez03_04_MetodiInnestati\obj\Debug\net8.0\Lez03_04_MetodiInnestati.pdb
+C:\Users\utente\Desktop\Academy_C#\Lez03_04_MetodiInnestati\Lez03_04_MetodiInnestati\obj\Debug\net8.0\Lez03_04_MetodiInnestati.genruntimeconfig.cache
+C:\Users\utente\Desktop\Academy_C#\Lez03_04_MetodiInnestati\Lez03_04_MetodiInnestati\obj\Debug\net8.0\ref\Lez03_04_MetodiInnestati.dll

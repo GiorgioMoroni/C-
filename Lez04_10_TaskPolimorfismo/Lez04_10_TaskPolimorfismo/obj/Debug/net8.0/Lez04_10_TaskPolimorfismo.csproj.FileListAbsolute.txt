@@ -1,0 +1,14 @@
+C:\Users\utente\Desktop\Academy_C#\Lez04_10_TaskPolimorfismo\Lez04_10_TaskPolimorfismo\bin\Debug\net8.0\Lez04_10_TaskPolimorfismo.exe
+C:\Users\utente\Desktop\Academy_C#\Lez04_10_TaskPolimorfismo\Lez04_10_TaskPolimorfismo\bin\Debug\net8.0\Lez04_10_TaskPolimorfismo.deps.json
+C:\Users\utente\Desktop\Academy_C#\Lez04_10_TaskPolimorfismo\Lez04_10_TaskPolimorfismo\bin\Debug\net8.0\Lez04_10_TaskPolimorfismo.runtimeconfig.json
+C:\Users\utente\Desktop\Academy_C#\Lez04_10_TaskPolimorfismo\Lez04_10_TaskPolimorfismo\bin\Debug\net8.0\Lez04_10_TaskPolimorfismo.dll
+C:\Users\utente\Desktop\Academy_C#\Lez04_10_TaskPolimorfismo\Lez04_10_TaskPolimorfismo\bin\Debug\net8.0\Lez04_10_TaskPolimorfismo.pdb
+C:\Users\utente\Desktop\Academy_C#\Lez04_10_TaskPolimorfismo\Lez04_10_TaskPolimorfismo\obj\Debug\net8.0\Lez04_10_TaskPolimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\utente\Desktop\Academy_C#\Lez04_10_TaskPolimorfismo\Lez04_10_TaskPolimorfismo\obj\Debug\net8.0\Lez04_10_TaskPolimorfismo.AssemblyInfoInputs.cache
+C:\Users\utente\Desktop\Academy_C#\Lez04_10_TaskPolimorfismo\Lez04_10_TaskPolimorfismo\obj\Debug\net8.0\Lez04_10_TaskPolimorfismo.AssemblyInfo.cs
+C:\Users\utente\Desktop\Academy_C#\Lez04_10_TaskPolimorfismo\Lez04_10_TaskPolimorfismo\obj\Debug\net8.0\Lez04_10_TaskPolimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\utente\Desktop\Academy_C#\Lez04_10_TaskPolimorfismo\Lez04_10_TaskPolimorfismo\obj\Debug\net8.0\Lez04_10_TaskPolimorfismo.dll
+C:\Users\utente\Desktop\Academy_C#\Lez04_10_TaskPolimorfismo\Lez04_10_TaskPolimorfismo\obj\Debug\net8.0\refint\Lez04_10_TaskPolimorfismo.dll
+C:\Users\utente\Desktop\Academy_C#\Lez04_10_TaskPolimorfismo\Lez04_10_TaskPolimorfismo\obj\Debug\net8.0\Lez04_10_TaskPolimorfismo.pdb
+C:\Users\utente\Desktop\Academy_C#\Lez04_10_TaskPolimorfismo\Lez04_10_TaskPolimorfismo\obj\Debug\net8.0\Lez04_10_TaskPolimorfismo.genruntimeconfig.cache
+C:\Users\utente\Desktop\Academy_C#\Lez04_10_TaskPolimorfismo\Lez04_10_TaskPolimorfismo\obj\Debug\net8.0\ref\Lez04_10_TaskPolimorfismo.dll

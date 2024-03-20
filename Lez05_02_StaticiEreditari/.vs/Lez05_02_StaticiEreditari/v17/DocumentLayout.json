@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\utente\\Desktop\\Academy_C#\\Lez05_02_StaticiEreditari\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{73C6F078-2FE2-4E1E-878E-05104FB959FA}|Lez05_02_StaticiEreditari\\Lez05_02_StaticiEreditari.csproj|c:\\users\\utente\\desktop\\academy_c#\\lez05_02_staticiereditari\\lez05_02_staticiereditari\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73C6F078-2FE2-4E1E-878E-05104FB959FA}|Lez05_02_StaticiEreditari\\Lez05_02_StaticiEreditari.csproj|solutionrelative:lez05_02_staticiereditari\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73C6F078-2FE2-4E1E-878E-05104FB959FA}|Lez05_02_StaticiEreditari\\Lez05_02_StaticiEreditari.csproj|c:\\users\\utente\\desktop\\academy_c#\\lez05_02_staticiereditari\\lez05_02_staticiereditari\\classes\\trenino.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73C6F078-2FE2-4E1E-878E-05104FB959FA}|Lez05_02_StaticiEreditari\\Lez05_02_StaticiEreditari.csproj|solutionrelative:lez05_02_staticiereditari\\classes\\trenino.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73C6F078-2FE2-4E1E-878E-05104FB959FA}|Lez05_02_StaticiEreditari\\Lez05_02_StaticiEreditari.csproj|c:\\users\\utente\\desktop\\academy_c#\\lez05_02_staticiereditari\\lez05_02_staticiereditari\\classes\\giocattolo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73C6F078-2FE2-4E1E-878E-05104FB959FA}|Lez05_02_StaticiEreditari\\Lez05_02_StaticiEreditari.csproj|solutionrelative:lez05_02_staticiereditari\\classes\\giocattolo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73C6F078-2FE2-4E1E-878E-05104FB959FA}|Lez05_02_StaticiEreditari\\Lez05_02_StaticiEreditari.csproj|c:\\users\\utente\\desktop\\academy_c#\\lez05_02_staticiereditari\\lez05_02_staticiereditari\\classes\\automobile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73C6F078-2FE2-4E1E-878E-05104FB959FA}|Lez05_02_StaticiEreditari\\Lez05_02_StaticiEreditari.csproj|solutionrelative:lez05_02_staticiereditari\\classes\\automobile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 339,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Trenino.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Academy_C#\\Lez05_02_StaticiEreditari\\Lez05_02_StaticiEreditari\\Classes\\Trenino.cs",
+              "RelativeDocumentMoniker": "Lez05_02_StaticiEreditari\\Classes\\Trenino.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Academy_C#\\Lez05_02_StaticiEreditari\\Lez05_02_StaticiEreditari\\Classes\\Trenino.cs",
+              "RelativeToolTip": "Lez05_02_StaticiEreditari\\Classes\\Trenino.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T09:44:55.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Automobile.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Academy_C#\\Lez05_02_StaticiEreditari\\Lez05_02_StaticiEreditari\\Classes\\Automobile.cs",
+              "RelativeDocumentMoniker": "Lez05_02_StaticiEreditari\\Classes\\Automobile.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Academy_C#\\Lez05_02_StaticiEreditari\\Lez05_02_StaticiEreditari\\Classes\\Automobile.cs",
+              "RelativeToolTip": "Lez05_02_StaticiEreditari\\Classes\\Automobile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T09:15:27.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Giocattolo.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Academy_C#\\Lez05_02_StaticiEreditari\\Lez05_02_StaticiEreditari\\Classes\\Giocattolo.cs",
+              "RelativeDocumentMoniker": "Lez05_02_StaticiEreditari\\Classes\\Giocattolo.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Academy_C#\\Lez05_02_StaticiEreditari\\Lez05_02_StaticiEreditari\\Classes\\Giocattolo.cs",
+              "RelativeToolTip": "Lez05_02_StaticiEreditari\\Classes\\Giocattolo.cs",
+              "ViewState": "AQIAAAwAAADA//////8XwBAAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T09:02:22.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Academy_C#\\Lez05_02_StaticiEreditari\\Lez05_02_StaticiEreditari\\Program.cs",
+              "RelativeDocumentMoniker": "Lez05_02_StaticiEreditari\\Program.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Academy_C#\\Lez05_02_StaticiEreditari\\Lez05_02_StaticiEreditari\\Program.cs",
+              "RelativeToolTip": "Lez05_02_StaticiEreditari\\Program.cs",
+              "ViewState": "AQIAAAwAAABAmZmZmZkdwBoAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T09:01:32.169Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

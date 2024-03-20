@@ -1,0 +1,14 @@
+C:\Users\utente\Desktop\Academy_C#\Lez03_02_TaskContenitori\Lez03_02_TaskContenitori\bin\Debug\net8.0\Lez03_02_TaskContenitori.exe
+C:\Users\utente\Desktop\Academy_C#\Lez03_02_TaskContenitori\Lez03_02_TaskContenitori\bin\Debug\net8.0\Lez03_02_TaskContenitori.deps.json
+C:\Users\utente\Desktop\Academy_C#\Lez03_02_TaskContenitori\Lez03_02_TaskContenitori\bin\Debug\net8.0\Lez03_02_TaskContenitori.runtimeconfig.json
+C:\Users\utente\Desktop\Academy_C#\Lez03_02_TaskContenitori\Lez03_02_TaskContenitori\bin\Debug\net8.0\Lez03_02_TaskContenitori.dll
+C:\Users\utente\Desktop\Academy_C#\Lez03_02_TaskContenitori\Lez03_02_TaskContenitori\bin\Debug\net8.0\Lez03_02_TaskContenitori.pdb
+C:\Users\utente\Desktop\Academy_C#\Lez03_02_TaskContenitori\Lez03_02_TaskContenitori\obj\Debug\net8.0\Lez03_02_TaskContenitori.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\utente\Desktop\Academy_C#\Lez03_02_TaskContenitori\Lez03_02_TaskContenitori\obj\Debug\net8.0\Lez03_02_TaskContenitori.AssemblyInfoInputs.cache
+C:\Users\utente\Desktop\Academy_C#\Lez03_02_TaskContenitori\Lez03_02_TaskContenitori\obj\Debug\net8.0\Lez03_02_TaskContenitori.AssemblyInfo.cs
+C:\Users\utente\Desktop\Academy_C#\Lez03_02_TaskContenitori\Lez03_02_TaskContenitori\obj\Debug\net8.0\Lez03_02_TaskContenitori.csproj.CoreCompileInputs.cache
+C:\Users\utente\Desktop\Academy_C#\Lez03_02_TaskContenitori\Lez03_02_TaskContenitori\obj\Debug\net8.0\Lez03_02_TaskContenitori.dll
+C:\Users\utente\Desktop\Academy_C#\Lez03_02_TaskContenitori\Lez03_02_TaskContenitori\obj\Debug\net8.0\refint\Lez03_02_TaskContenitori.dll
+C:\Users\utente\Desktop\Academy_C#\Lez03_02_TaskContenitori\Lez03_02_TaskContenitori\obj\Debug\net8.0\Lez03_02_TaskContenitori.pdb
+C:\Users\utente\Desktop\Academy_C#\Lez03_02_TaskContenitori\Lez03_02_TaskContenitori\obj\Debug\net8.0\Lez03_02_TaskContenitori.genruntimeconfig.cache
+C:\Users\utente\Desktop\Academy_C#\Lez03_02_TaskContenitori\Lez03_02_TaskContenitori\obj\Debug\net8.0\ref\Lez03_02_TaskContenitori.dll

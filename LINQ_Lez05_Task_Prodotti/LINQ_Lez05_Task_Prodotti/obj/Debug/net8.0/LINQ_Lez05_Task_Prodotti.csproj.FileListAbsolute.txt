@@ -1,0 +1,14 @@
+C:\Users\utente\Desktop\Academy_C#\LINQ_Lez05_Task_Prodotti\LINQ_Lez05_Task_Prodotti\obj\Debug\net8.0\LINQ_Lez05_Task_Prodotti.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\utente\Desktop\Academy_C#\LINQ_Lez05_Task_Prodotti\LINQ_Lez05_Task_Prodotti\obj\Debug\net8.0\LINQ_Lez05_Task_Prodotti.AssemblyInfoInputs.cache
+C:\Users\utente\Desktop\Academy_C#\LINQ_Lez05_Task_Prodotti\LINQ_Lez05_Task_Prodotti\obj\Debug\net8.0\LINQ_Lez05_Task_Prodotti.AssemblyInfo.cs
+C:\Users\utente\Desktop\Academy_C#\LINQ_Lez05_Task_Prodotti\LINQ_Lez05_Task_Prodotti\obj\Debug\net8.0\LINQ_Lez05_Task_Prodotti.csproj.CoreCompileInputs.cache
+C:\Users\utente\Desktop\Academy_C#\LINQ_Lez05_Task_Prodotti\LINQ_Lez05_Task_Prodotti\bin\Debug\net8.0\LINQ_Lez05_Task_Prodotti.exe
+C:\Users\utente\Desktop\Academy_C#\LINQ_Lez05_Task_Prodotti\LINQ_Lez05_Task_Prodotti\bin\Debug\net8.0\LINQ_Lez05_Task_Prodotti.deps.json
+C:\Users\utente\Desktop\Academy_C#\LINQ_Lez05_Task_Prodotti\LINQ_Lez05_Task_Prodotti\bin\Debug\net8.0\LINQ_Lez05_Task_Prodotti.runtimeconfig.json
+C:\Users\utente\Desktop\Academy_C#\LINQ_Lez05_Task_Prodotti\LINQ_Lez05_Task_Prodotti\bin\Debug\net8.0\LINQ_Lez05_Task_Prodotti.dll
+C:\Users\utente\Desktop\Academy_C#\LINQ_Lez05_Task_Prodotti\LINQ_Lez05_Task_Prodotti\bin\Debug\net8.0\LINQ_Lez05_Task_Prodotti.pdb
+C:\Users\utente\Desktop\Academy_C#\LINQ_Lez05_Task_Prodotti\LINQ_Lez05_Task_Prodotti\obj\Debug\net8.0\LINQ_Lez05_Task_Prodotti.dll
+C:\Users\utente\Desktop\Academy_C#\LINQ_Lez05_Task_Prodotti\LINQ_Lez05_Task_Prodotti\obj\Debug\net8.0\refint\LINQ_Lez05_Task_Prodotti.dll
+C:\Users\utente\Desktop\Academy_C#\LINQ_Lez05_Task_Prodotti\LINQ_Lez05_Task_Prodotti\obj\Debug\net8.0\LINQ_Lez05_Task_Prodotti.pdb
+C:\Users\utente\Desktop\Academy_C#\LINQ_Lez05_Task_Prodotti\LINQ_Lez05_Task_Prodotti\obj\Debug\net8.0\LINQ_Lez05_Task_Prodotti.genruntimeconfig.cache
+C:\Users\utente\Desktop\Academy_C#\LINQ_Lez05_Task_Prodotti\LINQ_Lez05_Task_Prodotti\obj\Debug\net8.0\ref\LINQ_Lez05_Task_Prodotti.dll

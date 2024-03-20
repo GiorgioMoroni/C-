@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQ_Lez04_join", "LINQ_Lez04_join\LINQ_Lez04_join.csproj", "{743953A6-D5BD-4A39-9EEE-DA0AA6947142}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{743953A6-D5BD-4A39-9EEE-DA0AA6947142}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{743953A6-D5BD-4A39-9EEE-DA0AA6947142}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{743953A6-D5BD-4A39-9EEE-DA0AA6947142}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{743953A6-D5BD-4A39-9EEE-DA0AA6947142}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E2C2ADD-6915-4158-9A70-3EA57771FE7A}
+	EndGlobalSection
+EndGlobal

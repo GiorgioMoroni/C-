@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\utente\\Desktop\\Academy_C#\\Lez04_05_TaskUtilizzo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{23147E2B-1E1D-4302-8EAC-CDB6C2B8C7AD}|Lez04_05_TaskUtilizzo\\Lez04_05_TaskUtilizzo.csproj|c:\\users\\utente\\desktop\\academy_c#\\lez04_05_taskutilizzo\\lez04_05_taskutilizzo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23147E2B-1E1D-4302-8EAC-CDB6C2B8C7AD}|Lez04_05_TaskUtilizzo\\Lez04_05_TaskUtilizzo.csproj|solutionrelative:lez04_05_taskutilizzo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23147E2B-1E1D-4302-8EAC-CDB6C2B8C7AD}|Lez04_05_TaskUtilizzo\\Lez04_05_TaskUtilizzo.csproj|c:\\users\\utente\\desktop\\academy_c#\\lez04_05_taskutilizzo\\lez04_05_taskutilizzo\\classes\\cartaidentita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23147E2B-1E1D-4302-8EAC-CDB6C2B8C7AD}|Lez04_05_TaskUtilizzo\\Lez04_05_TaskUtilizzo.csproj|solutionrelative:lez04_05_taskutilizzo\\classes\\cartaidentita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23147E2B-1E1D-4302-8EAC-CDB6C2B8C7AD}|Lez04_05_TaskUtilizzo\\Lez04_05_TaskUtilizzo.csproj|c:\\users\\utente\\desktop\\academy_c#\\lez04_05_taskutilizzo\\lez04_05_taskutilizzo\\classes\\codicefiscale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23147E2B-1E1D-4302-8EAC-CDB6C2B8C7AD}|Lez04_05_TaskUtilizzo\\Lez04_05_TaskUtilizzo.csproj|solutionrelative:lez04_05_taskutilizzo\\classes\\codicefiscale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23147E2B-1E1D-4302-8EAC-CDB6C2B8C7AD}|Lez04_05_TaskUtilizzo\\Lez04_05_TaskUtilizzo.csproj|c:\\users\\utente\\desktop\\academy_c#\\lez04_05_taskutilizzo\\lez04_05_taskutilizzo\\classes\\utente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23147E2B-1E1D-4302-8EAC-CDB6C2B8C7AD}|Lez04_05_TaskUtilizzo\\Lez04_05_TaskUtilizzo.csproj|solutionrelative:lez04_05_taskutilizzo\\classes\\utente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 339,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CartaIdentita.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Academy_C#\\Lez04_05_TaskUtilizzo\\Lez04_05_TaskUtilizzo\\Classes\\CartaIdentita.cs",
+              "RelativeDocumentMoniker": "Lez04_05_TaskUtilizzo\\Classes\\CartaIdentita.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Academy_C#\\Lez04_05_TaskUtilizzo\\Lez04_05_TaskUtilizzo\\Classes\\CartaIdentita.cs",
+              "RelativeToolTip": "Lez04_05_TaskUtilizzo\\Classes\\CartaIdentita.cs",
+              "ViewState": "AQIAABMAAABALTMzMzMtwCAAAACgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T11:27:52.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CodiceFiscale.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Academy_C#\\Lez04_05_TaskUtilizzo\\Lez04_05_TaskUtilizzo\\Classes\\CodiceFiscale.cs",
+              "RelativeDocumentMoniker": "Lez04_05_TaskUtilizzo\\Classes\\CodiceFiscale.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Academy_C#\\Lez04_05_TaskUtilizzo\\Lez04_05_TaskUtilizzo\\Classes\\CodiceFiscale.cs",
+              "RelativeToolTip": "Lez04_05_TaskUtilizzo\\Classes\\CodiceFiscale.cs",
+              "ViewState": "AQIAAAQAAACAMDMzMzMbwBAAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T11:27:32.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Utente.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Academy_C#\\Lez04_05_TaskUtilizzo\\Lez04_05_TaskUtilizzo\\Classes\\Utente.cs",
+              "RelativeDocumentMoniker": "Lez04_05_TaskUtilizzo\\Classes\\Utente.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Academy_C#\\Lez04_05_TaskUtilizzo\\Lez04_05_TaskUtilizzo\\Classes\\Utente.cs",
+              "RelativeToolTip": "Lez04_05_TaskUtilizzo\\Classes\\Utente.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAtwBIAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T11:27:11.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Academy_C#\\Lez04_05_TaskUtilizzo\\Lez04_05_TaskUtilizzo\\Program.cs",
+              "RelativeDocumentMoniker": "Lez04_05_TaskUtilizzo\\Program.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Academy_C#\\Lez04_05_TaskUtilizzo\\Lez04_05_TaskUtilizzo\\Program.cs",
+              "RelativeToolTip": "Lez04_05_TaskUtilizzo\\Program.cs",
+              "ViewState": "AQIAABsAAAAA2GRmZmbGvxoAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T11:23:32.503Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

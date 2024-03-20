@@ -1,0 +1,14 @@
+C:\Users\utente\Desktop\Academy_C#\Lez02_02_Stringhe\Lez02_02_Stringhe\bin\Debug\net8.0\Lez02_02_Stringhe.exe
+C:\Users\utente\Desktop\Academy_C#\Lez02_02_Stringhe\Lez02_02_Stringhe\bin\Debug\net8.0\Lez02_02_Stringhe.deps.json
+C:\Users\utente\Desktop\Academy_C#\Lez02_02_Stringhe\Lez02_02_Stringhe\bin\Debug\net8.0\Lez02_02_Stringhe.runtimeconfig.json
+C:\Users\utente\Desktop\Academy_C#\Lez02_02_Stringhe\Lez02_02_Stringhe\bin\Debug\net8.0\Lez02_02_Stringhe.dll
+C:\Users\utente\Desktop\Academy_C#\Lez02_02_Stringhe\Lez02_02_Stringhe\bin\Debug\net8.0\Lez02_02_Stringhe.pdb
+C:\Users\utente\Desktop\Academy_C#\Lez02_02_Stringhe\Lez02_02_Stringhe\obj\Debug\net8.0\Lez02_02_Stringhe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\utente\Desktop\Academy_C#\Lez02_02_Stringhe\Lez02_02_Stringhe\obj\Debug\net8.0\Lez02_02_Stringhe.AssemblyInfoInputs.cache
+C:\Users\utente\Desktop\Academy_C#\Lez02_02_Stringhe\Lez02_02_Stringhe\obj\Debug\net8.0\Lez02_02_Stringhe.AssemblyInfo.cs
+C:\Users\utente\Desktop\Academy_C#\Lez02_02_Stringhe\Lez02_02_Stringhe\obj\Debug\net8.0\Lez02_02_Stringhe.csproj.CoreCompileInputs.cache
+C:\Users\utente\Desktop\Academy_C#\Lez02_02_Stringhe\Lez02_02_Stringhe\obj\Debug\net8.0\Lez02_02_Stringhe.dll
+C:\Users\utente\Desktop\Academy_C#\Lez02_02_Stringhe\Lez02_02_Stringhe\obj\Debug\net8.0\refint\Lez02_02_Stringhe.dll
+C:\Users\utente\Desktop\Academy_C#\Lez02_02_Stringhe\Lez02_02_Stringhe\obj\Debug\net8.0\Lez02_02_Stringhe.pdb
+C:\Users\utente\Desktop\Academy_C#\Lez02_02_Stringhe\Lez02_02_Stringhe\obj\Debug\net8.0\Lez02_02_Stringhe.genruntimeconfig.cache
+C:\Users\utente\Desktop\Academy_C#\Lez02_02_Stringhe\Lez02_02_Stringhe\obj\Debug\net8.0\ref\Lez02_02_Stringhe.dll

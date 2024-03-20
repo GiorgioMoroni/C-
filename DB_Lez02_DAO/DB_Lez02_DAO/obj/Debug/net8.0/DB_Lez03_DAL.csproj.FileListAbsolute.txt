@@ -1,0 +1,14 @@
+C:\Users\utente\Desktop\Academy_C#\DB_Lez02_DAO\DB_Lez02_DAO\obj\Debug\net8.0\DB_Lez03_DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\utente\Desktop\Academy_C#\DB_Lez02_DAO\DB_Lez02_DAO\obj\Debug\net8.0\DB_Lez03_DAL.AssemblyInfoInputs.cache
+C:\Users\utente\Desktop\Academy_C#\DB_Lez02_DAO\DB_Lez02_DAO\obj\Debug\net8.0\DB_Lez03_DAL.AssemblyInfo.cs
+C:\Users\utente\Desktop\Academy_C#\DB_Lez02_DAO\DB_Lez02_DAO\obj\Debug\net8.0\DB_Lez03_DAL.csproj.CoreCompileInputs.cache
+C:\Users\utente\Desktop\Academy_C#\DB_Lez02_DAO\DB_Lez02_DAO\bin\Debug\net8.0\DB_Lez03_DAL.exe
+C:\Users\utente\Desktop\Academy_C#\DB_Lez02_DAO\DB_Lez02_DAO\bin\Debug\net8.0\DB_Lez03_DAL.deps.json
+C:\Users\utente\Desktop\Academy_C#\DB_Lez02_DAO\DB_Lez02_DAO\bin\Debug\net8.0\DB_Lez03_DAL.runtimeconfig.json
+C:\Users\utente\Desktop\Academy_C#\DB_Lez02_DAO\DB_Lez02_DAO\bin\Debug\net8.0\DB_Lez03_DAL.dll
+C:\Users\utente\Desktop\Academy_C#\DB_Lez02_DAO\DB_Lez02_DAO\bin\Debug\net8.0\DB_Lez03_DAL.pdb
+C:\Users\utente\Desktop\Academy_C#\DB_Lez02_DAO\DB_Lez02_DAO\obj\Debug\net8.0\DB_Lez03_DAL.dll
+C:\Users\utente\Desktop\Academy_C#\DB_Lez02_DAO\DB_Lez02_DAO\obj\Debug\net8.0\refint\DB_Lez03_DAL.dll
+C:\Users\utente\Desktop\Academy_C#\DB_Lez02_DAO\DB_Lez02_DAO\obj\Debug\net8.0\DB_Lez03_DAL.pdb
+C:\Users\utente\Desktop\Academy_C#\DB_Lez02_DAO\DB_Lez02_DAO\obj\Debug\net8.0\DB_Lez03_DAL.genruntimeconfig.cache
+C:\Users\utente\Desktop\Academy_C#\DB_Lez02_DAO\DB_Lez02_DAO\obj\Debug\net8.0\ref\DB_Lez03_DAL.dll

@@ -1,0 +1,14 @@
+C:\Users\utente\Desktop\Academy_C#\Lez02_01_Variabili\Lez02_01_Variabili\bin\Debug\net8.0\Lez02_01_Variabili.exe
+C:\Users\utente\Desktop\Academy_C#\Lez02_01_Variabili\Lez02_01_Variabili\bin\Debug\net8.0\Lez02_01_Variabili.deps.json
+C:\Users\utente\Desktop\Academy_C#\Lez02_01_Variabili\Lez02_01_Variabili\bin\Debug\net8.0\Lez02_01_Variabili.runtimeconfig.json
+C:\Users\utente\Desktop\Academy_C#\Lez02_01_Variabili\Lez02_01_Variabili\bin\Debug\net8.0\Lez02_01_Variabili.dll
+C:\Users\utente\Desktop\Academy_C#\Lez02_01_Variabili\Lez02_01_Variabili\bin\Debug\net8.0\Lez02_01_Variabili.pdb
+C:\Users\utente\Desktop\Academy_C#\Lez02_01_Variabili\Lez02_01_Variabili\obj\Debug\net8.0\Lez02_01_Variabili.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\utente\Desktop\Academy_C#\Lez02_01_Variabili\Lez02_01_Variabili\obj\Debug\net8.0\Lez02_01_Variabili.AssemblyInfoInputs.cache
+C:\Users\utente\Desktop\Academy_C#\Lez02_01_Variabili\Lez02_01_Variabili\obj\Debug\net8.0\Lez02_01_Variabili.AssemblyInfo.cs
+C:\Users\utente\Desktop\Academy_C#\Lez02_01_Variabili\Lez02_01_Variabili\obj\Debug\net8.0\Lez02_01_Variabili.csproj.CoreCompileInputs.cache
+C:\Users\utente\Desktop\Academy_C#\Lez02_01_Variabili\Lez02_01_Variabili\obj\Debug\net8.0\Lez02_01_Variabili.dll
+C:\Users\utente\Desktop\Academy_C#\Lez02_01_Variabili\Lez02_01_Variabili\obj\Debug\net8.0\refint\Lez02_01_Variabili.dll
+C:\Users\utente\Desktop\Academy_C#\Lez02_01_Variabili\Lez02_01_Variabili\obj\Debug\net8.0\Lez02_01_Variabili.pdb
+C:\Users\utente\Desktop\Academy_C#\Lez02_01_Variabili\Lez02_01_Variabili\obj\Debug\net8.0\Lez02_01_Variabili.genruntimeconfig.cache
+C:\Users\utente\Desktop\Academy_C#\Lez02_01_Variabili\Lez02_01_Variabili\obj\Debug\net8.0\ref\Lez02_01_Variabili.dll

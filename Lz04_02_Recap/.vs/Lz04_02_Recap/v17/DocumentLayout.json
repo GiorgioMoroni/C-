@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\utente\\Desktop\\Academy_C#\\Lz04_02_Recap\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E0DD8D8F-D794-4D55-93B7-02B331A47711}|Lz04_02_Recap\\Lz04_02_Recap.csproj|c:\\users\\utente\\desktop\\academy_c#\\lz04_02_recap\\lz04_02_recap\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0DD8D8F-D794-4D55-93B7-02B331A47711}|Lz04_02_Recap\\Lz04_02_Recap.csproj|solutionrelative:lz04_02_recap\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0DD8D8F-D794-4D55-93B7-02B331A47711}|Lz04_02_Recap\\Lz04_02_Recap.csproj|c:\\users\\utente\\desktop\\academy_c#\\lz04_02_recap\\lz04_02_recap\\classes\\studente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0DD8D8F-D794-4D55-93B7-02B331A47711}|Lz04_02_Recap\\Lz04_02_Recap.csproj|solutionrelative:lz04_02_recap\\classes\\studente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 339,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Studente.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Academy_C#\\Lz04_02_Recap\\Lz04_02_Recap\\Classes\\Studente.cs",
+              "RelativeDocumentMoniker": "Lz04_02_Recap\\Classes\\Studente.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Academy_C#\\Lz04_02_Recap\\Lz04_02_Recap\\Classes\\Studente.cs",
+              "RelativeToolTip": "Lz04_02_Recap\\Classes\\Studente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T09:02:15.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Academy_C#\\Lz04_02_Recap\\Lz04_02_Recap\\Program.cs",
+              "RelativeDocumentMoniker": "Lz04_02_Recap\\Program.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Academy_C#\\Lz04_02_Recap\\Lz04_02_Recap\\Program.cs",
+              "RelativeToolTip": "Lz04_02_Recap\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T09:01:11.948Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\utente\Desktop\Academy_C#\Lez03_07_Ereditarieta\Lez03_07_Ereditarieta\obj\Debug\net8.0\Lez03_07_Ereditarieta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\utente\Desktop\Academy_C#\Lez03_07_Ereditarieta\Lez03_07_Ereditarieta\obj\Debug\net8.0\Lez03_07_Ereditarieta.AssemblyInfoInputs.cache
+C:\Users\utente\Desktop\Academy_C#\Lez03_07_Ereditarieta\Lez03_07_Ereditarieta\obj\Debug\net8.0\Lez03_07_Ereditarieta.AssemblyInfo.cs
+C:\Users\utente\Desktop\Academy_C#\Lez03_07_Ereditarieta\Lez03_07_Ereditarieta\obj\Debug\net8.0\Lez03_07_Ereditarieta.csproj.CoreCompileInputs.cache
+C:\Users\utente\Desktop\Academy_C#\Lez03_07_Ereditarieta\Lez03_07_Ereditarieta\bin\Debug\net8.0\Lez03_07_Ereditarieta.exe
+C:\Users\utente\Desktop\Academy_C#\Lez03_07_Ereditarieta\Lez03_07_Ereditarieta\bin\Debug\net8.0\Lez03_07_Ereditarieta.deps.json
+C:\Users\utente\Desktop\Academy_C#\Lez03_07_Ereditarieta\Lez03_07_Ereditarieta\bin\Debug\net8.0\Lez03_07_Ereditarieta.runtimeconfig.json
+C:\Users\utente\Desktop\Academy_C#\Lez03_07_Ereditarieta\Lez03_07_Ereditarieta\bin\Debug\net8.0\Lez03_07_Ereditarieta.dll
+C:\Users\utente\Desktop\Academy_C#\Lez03_07_Ereditarieta\Lez03_07_Ereditarieta\bin\Debug\net8.0\Lez03_07_Ereditarieta.pdb
+C:\Users\utente\Desktop\Academy_C#\Lez03_07_Ereditarieta\Lez03_07_Ereditarieta\obj\Debug\net8.0\Lez03_07_Ereditarieta.dll
+C:\Users\utente\Desktop\Academy_C#\Lez03_07_Ereditarieta\Lez03_07_Ereditarieta\obj\Debug\net8.0\refint\Lez03_07_Ereditarieta.dll
+C:\Users\utente\Desktop\Academy_C#\Lez03_07_Ereditarieta\Lez03_07_Ereditarieta\obj\Debug\net8.0\Lez03_07_Ereditarieta.pdb
+C:\Users\utente\Desktop\Academy_C#\Lez03_07_Ereditarieta\Lez03_07_Ereditarieta\obj\Debug\net8.0\Lez03_07_Ereditarieta.genruntimeconfig.cache
+C:\Users\utente\Desktop\Academy_C#\Lez03_07_Ereditarieta\Lez03_07_Ereditarieta\obj\Debug\net8.0\ref\Lez03_07_Ereditarieta.dll

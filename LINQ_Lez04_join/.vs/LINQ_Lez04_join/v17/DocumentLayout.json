@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\utente\\Desktop\\Academy_C#\\LINQ_Lez04_join\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{743953A6-D5BD-4A39-9EEE-DA0AA6947142}|LINQ_Lez04_join\\LINQ_Lez04_join.csproj|c:\\users\\utente\\desktop\\academy_c#\\linq_lez04_join\\linq_lez04_join\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{743953A6-D5BD-4A39-9EEE-DA0AA6947142}|LINQ_Lez04_join\\LINQ_Lez04_join.csproj|solutionrelative:linq_lez04_join\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{743953A6-D5BD-4A39-9EEE-DA0AA6947142}|LINQ_Lez04_join\\LINQ_Lez04_join.csproj|c:\\users\\utente\\desktop\\academy_c#\\linq_lez04_join\\linq_lez04_join\\classes\\docente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{743953A6-D5BD-4A39-9EEE-DA0AA6947142}|LINQ_Lez04_join\\LINQ_Lez04_join.csproj|solutionrelative:linq_lez04_join\\classes\\docente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{743953A6-D5BD-4A39-9EEE-DA0AA6947142}|LINQ_Lez04_join\\LINQ_Lez04_join.csproj|c:\\users\\utente\\desktop\\academy_c#\\linq_lez04_join\\linq_lez04_join\\classes\\dipartimento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{743953A6-D5BD-4A39-9EEE-DA0AA6947142}|LINQ_Lez04_join\\LINQ_Lez04_join.csproj|solutionrelative:linq_lez04_join\\classes\\dipartimento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 339,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dipartimento.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Academy_C#\\LINQ_Lez04_join\\LINQ_Lez04_join\\Classes\\Dipartimento.cs",
+              "RelativeDocumentMoniker": "LINQ_Lez04_join\\Classes\\Dipartimento.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Academy_C#\\LINQ_Lez04_join\\LINQ_Lez04_join\\Classes\\Dipartimento.cs",
+              "RelativeToolTip": "LINQ_Lez04_join\\Classes\\Dipartimento.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T14:13:13.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Docente.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Academy_C#\\LINQ_Lez04_join\\LINQ_Lez04_join\\Classes\\Docente.cs",
+              "RelativeDocumentMoniker": "LINQ_Lez04_join\\Classes\\Docente.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Academy_C#\\LINQ_Lez04_join\\LINQ_Lez04_join\\Classes\\Docente.cs",
+              "RelativeToolTip": "LINQ_Lez04_join\\Classes\\Docente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T14:12:46.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Academy_C#\\LINQ_Lez04_join\\LINQ_Lez04_join\\Program.cs",
+              "RelativeDocumentMoniker": "LINQ_Lez04_join\\Program.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Academy_C#\\LINQ_Lez04_join\\LINQ_Lez04_join\\Program.cs",
+              "RelativeToolTip": "LINQ_Lez04_join\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAkpmZmZnZvwwAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T14:12:08.175Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

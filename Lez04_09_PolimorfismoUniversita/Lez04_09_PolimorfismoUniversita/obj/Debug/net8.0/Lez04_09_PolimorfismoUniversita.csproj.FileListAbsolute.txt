@@ -1,0 +1,14 @@
+C:\Users\utente\Desktop\Academy_C#\Lez04_09_PolimorfismoUniversita\Lez04_09_PolimorfismoUniversita\bin\Debug\net8.0\Lez04_09_PolimorfismoUniversita.exe
+C:\Users\utente\Desktop\Academy_C#\Lez04_09_PolimorfismoUniversita\Lez04_09_PolimorfismoUniversita\bin\Debug\net8.0\Lez04_09_PolimorfismoUniversita.deps.json
+C:\Users\utente\Desktop\Academy_C#\Lez04_09_PolimorfismoUniversita\Lez04_09_PolimorfismoUniversita\bin\Debug\net8.0\Lez04_09_PolimorfismoUniversita.runtimeconfig.json
+C:\Users\utente\Desktop\Academy_C#\Lez04_09_PolimorfismoUniversita\Lez04_09_PolimorfismoUniversita\bin\Debug\net8.0\Lez04_09_PolimorfismoUniversita.dll
+C:\Users\utente\Desktop\Academy_C#\Lez04_09_PolimorfismoUniversita\Lez04_09_PolimorfismoUniversita\bin\Debug\net8.0\Lez04_09_PolimorfismoUniversita.pdb
+C:\Users\utente\Desktop\Academy_C#\Lez04_09_PolimorfismoUniversita\Lez04_09_PolimorfismoUniversita\obj\Debug\net8.0\Lez04_09_PolimorfismoUniversita.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\utente\Desktop\Academy_C#\Lez04_09_PolimorfismoUniversita\Lez04_09_PolimorfismoUniversita\obj\Debug\net8.0\Lez04_09_PolimorfismoUniversita.AssemblyInfoInputs.cache
+C:\Users\utente\Desktop\Academy_C#\Lez04_09_PolimorfismoUniversita\Lez04_09_PolimorfismoUniversita\obj\Debug\net8.0\Lez04_09_PolimorfismoUniversita.AssemblyInfo.cs
+C:\Users\utente\Desktop\Academy_C#\Lez04_09_PolimorfismoUniversita\Lez04_09_PolimorfismoUniversita\obj\Debug\net8.0\Lez04_09_PolimorfismoUniversita.csproj.CoreCompileInputs.cache
+C:\Users\utente\Desktop\Academy_C#\Lez04_09_PolimorfismoUniversita\Lez04_09_PolimorfismoUniversita\obj\Debug\net8.0\Lez04_09_PolimorfismoUniversita.dll
+C:\Users\utente\Desktop\Academy_C#\Lez04_09_PolimorfismoUniversita\Lez04_09_PolimorfismoUniversita\obj\Debug\net8.0\refint\Lez04_09_PolimorfismoUniversita.dll
+C:\Users\utente\Desktop\Academy_C#\Lez04_09_PolimorfismoUniversita\Lez04_09_PolimorfismoUniversita\obj\Debug\net8.0\Lez04_09_PolimorfismoUniversita.pdb
+C:\Users\utente\Desktop\Academy_C#\Lez04_09_PolimorfismoUniversita\Lez04_09_PolimorfismoUniversita\obj\Debug\net8.0\Lez04_09_PolimorfismoUniversita.genruntimeconfig.cache
+C:\Users\utente\Desktop\Academy_C#\Lez04_09_PolimorfismoUniversita\Lez04_09_PolimorfismoUniversita\obj\Debug\net8.0\ref\Lez04_09_PolimorfismoUniversita.dll

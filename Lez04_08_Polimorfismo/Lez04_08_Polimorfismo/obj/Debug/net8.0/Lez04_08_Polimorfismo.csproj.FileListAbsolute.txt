@@ -1,0 +1,14 @@
+C:\Users\utente\Desktop\Academy_C#\Lez04_08_Polimorfismo\Lez04_08_Polimorfismo\bin\Debug\net8.0\Lez04_08_Polimorfismo.exe
+C:\Users\utente\Desktop\Academy_C#\Lez04_08_Polimorfismo\Lez04_08_Polimorfismo\bin\Debug\net8.0\Lez04_08_Polimorfismo.deps.json
+C:\Users\utente\Desktop\Academy_C#\Lez04_08_Polimorfismo\Lez04_08_Polimorfismo\bin\Debug\net8.0\Lez04_08_Polimorfismo.runtimeconfig.json
+C:\Users\utente\Desktop\Academy_C#\Lez04_08_Polimorfismo\Lez04_08_Polimorfismo\bin\Debug\net8.0\Lez04_08_Polimorfismo.dll
+C:\Users\utente\Desktop\Academy_C#\Lez04_08_Polimorfismo\Lez04_08_Polimorfismo\bin\Debug\net8.0\Lez04_08_Polimorfismo.pdb
+C:\Users\utente\Desktop\Academy_C#\Lez04_08_Polimorfismo\Lez04_08_Polimorfismo\obj\Debug\net8.0\Lez04_08_Polimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\utente\Desktop\Academy_C#\Lez04_08_Polimorfismo\Lez04_08_Polimorfismo\obj\Debug\net8.0\Lez04_08_Polimorfismo.AssemblyInfoInputs.cache
+C:\Users\utente\Desktop\Academy_C#\Lez04_08_Polimorfismo\Lez04_08_Polimorfismo\obj\Debug\net8.0\Lez04_08_Polimorfismo.AssemblyInfo.cs
+C:\Users\utente\Desktop\Academy_C#\Lez04_08_Polimorfismo\Lez04_08_Polimorfismo\obj\Debug\net8.0\Lez04_08_Polimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\utente\Desktop\Academy_C#\Lez04_08_Polimorfismo\Lez04_08_Polimorfismo\obj\Debug\net8.0\Lez04_08_Polimorfismo.dll
+C:\Users\utente\Desktop\Academy_C#\Lez04_08_Polimorfismo\Lez04_08_Polimorfismo\obj\Debug\net8.0\refint\Lez04_08_Polimorfismo.dll
+C:\Users\utente\Desktop\Academy_C#\Lez04_08_Polimorfismo\Lez04_08_Polimorfismo\obj\Debug\net8.0\Lez04_08_Polimorfismo.pdb
+C:\Users\utente\Desktop\Academy_C#\Lez04_08_Polimorfismo\Lez04_08_Polimorfismo\obj\Debug\net8.0\Lez04_08_Polimorfismo.genruntimeconfig.cache
+C:\Users\utente\Desktop\Academy_C#\Lez04_08_Polimorfismo\Lez04_08_Polimorfismo\obj\Debug\net8.0\ref\Lez04_08_Polimorfismo.dll

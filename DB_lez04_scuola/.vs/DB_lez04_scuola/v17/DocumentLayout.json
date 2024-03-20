@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\utente\\Desktop\\Academy_C#\\DB_lez04_scuola\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E53A69AA-3B03-489C-A810-937D88AA1841}|DB_lez04_scuola\\DB_lez04_scuola.csproj|c:\\users\\utente\\desktop\\academy_c#\\db_lez04_scuola\\db_lez04_scuola\\dal\\studentedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E53A69AA-3B03-489C-A810-937D88AA1841}|DB_lez04_scuola\\DB_lez04_scuola.csproj|solutionrelative:db_lez04_scuola\\dal\\studentedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E53A69AA-3B03-489C-A810-937D88AA1841}|DB_lez04_scuola\\DB_lez04_scuola.csproj|c:\\users\\utente\\desktop\\academy_c#\\db_lez04_scuola\\db_lez04_scuola\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E53A69AA-3B03-489C-A810-937D88AA1841}|DB_lez04_scuola\\DB_lez04_scuola.csproj|solutionrelative:db_lez04_scuola\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E53A69AA-3B03-489C-A810-937D88AA1841}|DB_lez04_scuola\\DB_lez04_scuola.csproj|c:\\users\\utente\\desktop\\academy_c#\\db_lez04_scuola\\db_lez04_scuola\\dal\\docentedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E53A69AA-3B03-489C-A810-937D88AA1841}|DB_lez04_scuola\\DB_lez04_scuola.csproj|solutionrelative:db_lez04_scuola\\dal\\docentedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E53A69AA-3B03-489C-A810-937D88AA1841}|DB_lez04_scuola\\DB_lez04_scuola.csproj|c:\\users\\utente\\desktop\\academy_c#\\db_lez04_scuola\\db_lez04_scuola\\utilities\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E53A69AA-3B03-489C-A810-937D88AA1841}|DB_lez04_scuola\\DB_lez04_scuola.csproj|solutionrelative:db_lez04_scuola\\utilities\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E53A69AA-3B03-489C-A810-937D88AA1841}|DB_lez04_scuola\\DB_lez04_scuola.csproj|c:\\users\\utente\\desktop\\academy_c#\\db_lez04_scuola\\db_lez04_scuola\\appsetting.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E53A69AA-3B03-489C-A810-937D88AA1841}|DB_lez04_scuola\\DB_lez04_scuola.csproj|solutionrelative:db_lez04_scuola\\appsetting.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E53A69AA-3B03-489C-A810-937D88AA1841}|DB_lez04_scuola\\DB_lez04_scuola.csproj|c:\\users\\utente\\desktop\\academy_c#\\db_lez04_scuola\\db_lez04_scuola\\dal\\idal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E53A69AA-3B03-489C-A810-937D88AA1841}|DB_lez04_scuola\\DB_lez04_scuola.csproj|solutionrelative:db_lez04_scuola\\dal\\idal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E53A69AA-3B03-489C-A810-937D88AA1841}|DB_lez04_scuola\\DB_lez04_scuola.csproj|c:\\users\\utente\\desktop\\academy_c#\\db_lez04_scuola\\db_lez04_scuola\\models\\studente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E53A69AA-3B03-489C-A810-937D88AA1841}|DB_lez04_scuola\\DB_lez04_scuola.csproj|solutionrelative:db_lez04_scuola\\models\\studente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E53A69AA-3B03-489C-A810-937D88AA1841}|DB_lez04_scuola\\DB_lez04_scuola.csproj|c:\\users\\utente\\desktop\\academy_c#\\db_lez04_scuola\\db_lez04_scuola\\models\\docente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E53A69AA-3B03-489C-A810-937D88AA1841}|DB_lez04_scuola\\DB_lez04_scuola.csproj|solutionrelative:db_lez04_scuola\\models\\docente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E53A69AA-3B03-489C-A810-937D88AA1841}|DB_lez04_scuola\\DB_lez04_scuola.csproj|c:\\users\\utente\\desktop\\academy_c#\\db_lez04_scuola\\db_lez04_scuola\\models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E53A69AA-3B03-489C-A810-937D88AA1841}|DB_lez04_scuola\\DB_lez04_scuola.csproj|solutionrelative:db_lez04_scuola\\models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 339,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Config.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Academy_C#\\DB_lez04_scuola\\DB_lez04_scuola\\Utilities\\Config.cs",
+              "RelativeDocumentMoniker": "DB_lez04_scuola\\Utilities\\Config.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Academy_C#\\DB_lez04_scuola\\DB_lez04_scuola\\Utilities\\Config.cs",
+              "RelativeToolTip": "DB_lez04_scuola\\Utilities\\Config.cs",
+              "ViewState": "AQIAACMAAACAQWZmZmYAwDEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T09:26:15.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appSetting.json",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Academy_C#\\DB_lez04_scuola\\DB_lez04_scuola\\appSetting.json",
+              "RelativeDocumentMoniker": "DB_lez04_scuola\\appSetting.json",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Academy_C#\\DB_lez04_scuola\\DB_lez04_scuola\\appSetting.json",
+              "RelativeToolTip": "DB_lez04_scuola\\appSetting.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-20T09:17:09.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DocenteDAL.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Academy_C#\\DB_lez04_scuola\\DB_lez04_scuola\\DAL\\DocenteDAL.cs",
+              "RelativeDocumentMoniker": "DB_lez04_scuola\\DAL\\DocenteDAL.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Academy_C#\\DB_lez04_scuola\\DB_lez04_scuola\\DAL\\DocenteDAL.cs",
+              "RelativeToolTip": "DB_lez04_scuola\\DAL\\DocenteDAL.cs",
+              "ViewState": "AQIAABwAAADAv8zMzEwWwBIAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T09:01:35.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudenteDAL.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Academy_C#\\DB_lez04_scuola\\DB_lez04_scuola\\DAL\\StudenteDAL.cs",
+              "RelativeDocumentMoniker": "DB_lez04_scuola\\DAL\\StudenteDAL.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Academy_C#\\DB_lez04_scuola\\DB_lez04_scuola\\DAL\\StudenteDAL.cs",
+              "RelativeToolTip": "DB_lez04_scuola\\DAL\\StudenteDAL.cs",
+              "ViewState": "AQIAACcAAAAAzszMzMwuwEUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T09:01:16.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IDal.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Academy_C#\\DB_lez04_scuola\\DB_lez04_scuola\\DAL\\IDal.cs",
+              "RelativeDocumentMoniker": "DB_lez04_scuola\\DAL\\IDal.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Academy_C#\\DB_lez04_scuola\\DB_lez04_scuola\\DAL\\IDal.cs",
+              "RelativeToolTip": "DB_lez04_scuola\\DAL\\IDal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T08:51:38.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Docente.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Academy_C#\\DB_lez04_scuola\\DB_lez04_scuola\\Models\\Docente.cs",
+              "RelativeDocumentMoniker": "DB_lez04_scuola\\Models\\Docente.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Academy_C#\\DB_lez04_scuola\\DB_lez04_scuola\\Models\\Docente.cs",
+              "RelativeToolTip": "DB_lez04_scuola\\Models\\Docente.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwBkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T08:48:47.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Studente.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Academy_C#\\DB_lez04_scuola\\DB_lez04_scuola\\Models\\Studente.cs",
+              "RelativeDocumentMoniker": "DB_lez04_scuola\\Models\\Studente.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Academy_C#\\DB_lez04_scuola\\DB_lez04_scuola\\Models\\Studente.cs",
+              "RelativeToolTip": "DB_lez04_scuola\\Models\\Studente.cs",
+              "ViewState": "AQIAAAoAAABQzMzMzMw1wAwAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T08:44:28.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Academy_C#\\DB_lez04_scuola\\DB_lez04_scuola\\Models\\Persona.cs",
+              "RelativeDocumentMoniker": "DB_lez04_scuola\\Models\\Persona.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Academy_C#\\DB_lez04_scuola\\DB_lez04_scuola\\Models\\Persona.cs",
+              "RelativeToolTip": "DB_lez04_scuola\\Models\\Persona.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T08:41:29.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Academy_C#\\DB_lez04_scuola\\DB_lez04_scuola\\Program.cs",
+              "RelativeDocumentMoniker": "DB_lez04_scuola\\Program.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Academy_C#\\DB_lez04_scuola\\DB_lez04_scuola\\Program.cs",
+              "RelativeToolTip": "DB_lez04_scuola\\Program.cs",
+              "ViewState": "AQIAAAYAAADAMDMzMzMbwAsAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T08:40:13.88Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
