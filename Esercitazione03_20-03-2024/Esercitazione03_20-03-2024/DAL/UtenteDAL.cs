@@ -9,17 +9,17 @@ namespace Esercitazione03_20_03_2024.DAL
 {
     internal class UtenteDAL : IDal<Utente>
     {
-        private static UtenteDAL? istanza;
+        private static UtenteDAL? instance;
 
         private UtenteDAL() { }
 
-        public static UtenteDAL getIstanza()
+        public static UtenteDAL getInstance()
         {
-            if (istanza == null)
+            if (instance == null)
             {
-                istanza = new UtenteDAL();
+                instance = new UtenteDAL();
             }
-            return istanza;
+            return instance;
         }
 
 

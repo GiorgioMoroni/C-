@@ -9,24 +9,24 @@ namespace Esercitazione03_20_03_2024
         {
             //Libro lib = new Libro()
             //{
-            //    Id = 2,
-            //    Titolo = "Il Codice Da Vinci",
-            //    AnnoPubblicazione = new(2010, 01, 01),
+            //    Id = 7,
+            //    Titolo = "Il magico potere di sbattersene il cazzo",
+            //    AnnoPubblicazione = new(2016, 01, 01),
             //    IsDisponibile = true
             //};
-            //METODO INSERIMENTO LIBRO
+            ////METODO INSERIMENTO LIBRO
             //Console.WriteLine(LibroDAL.getIstanza().Insert(lib));
 
             //METODO ELIMINAZIONE LIBRO
             //Console.WriteLine(LibroDAL.getIstanza().Delete(lib));
 
-            //METODO GETALL
+            ////METODO GETALL
             //foreach (Libro l in LibroDAL.getIstanza().GetAll())
             //{
             //    Console.WriteLine(l);
             //}
 
-            Console.WriteLine(LibroDAL.getIstanza().Get(2));
+            Console.WriteLine(LibroDAL.getIstanza().Get(7));
 
 
 

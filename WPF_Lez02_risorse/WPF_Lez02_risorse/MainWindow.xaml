@@ -1,0 +1,34 @@
+﻿<Window x:Class="WPF_Lez02_risorse.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF_Lez02_risorse" xmlns:sys="clr-namespace:System;assembly=System.Runtime"
+        mc:Ignorable="d"
+        WindowStartupLocation="CenterScreen"
+        Title="MainWindow" Height="400" Width="400"
+        MaxHeight="600" MaxWidth="500">
+
+    <Window.Resources>
+        <sys:String x:Key="stringaSaluta">Ciao Giovanni</sys:String>
+        <sys:Double x:Key="dimensioneFont">25.6</sys:Double>
+        
+        
+    </Window.Resources>
+    <StackPanel>
+        <!--WnindowState="Maximized" All'avviamento porterà la pagina a tuttoschermo-->
+        <TextBlock 
+            Text="{StaticResource stringaSaluta}"
+            FontSize="{StaticResource dimensioneFont}"></TextBlock>
+        <TextBlock 
+            Text="{StaticResource stringaSaluta}"
+            FontSize="{StaticResource dimensioneFont}"></TextBlock>
+        <TextBlock 
+            x:Name="TestoPersonalizzato"
+            FontSize="{StaticResource dimensioneFont}"></TextBlock>
+        <Button Name="ModificaTesto" Content ="Modifica" Click="ModificaTesto_Click"></Button>
+
+        <TextBlock>Scegli il sesso</TextBlock>
+        <ComboBox ItemsSource="{StaticResource arraySesso}"></ComboBox>
+    </StackPanel>
+</Window>

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF_Lez01_integrazione", "WPF_Lez01_integrazione\WPF_Lez01_integrazione.csproj", "{DB9ACCE2-C243-40F4-8DDF-276B44A8C4B0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB9ACCE2-C243-40F4-8DDF-276B44A8C4B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB9ACCE2-C243-40F4-8DDF-276B44A8C4B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB9ACCE2-C243-40F4-8DDF-276B44A8C4B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB9ACCE2-C243-40F4-8DDF-276B44A8C4B0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {50B9B373-5CB4-4BBE-8854-2C79E55D31AA}
+	EndGlobalSection
+EndGlobal

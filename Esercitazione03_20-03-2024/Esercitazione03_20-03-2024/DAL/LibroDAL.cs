@@ -63,6 +63,7 @@ namespace Esercitazione03_20_03_2024.DAL
             using (SqlConnection con = new SqlConnection(Config.getIstanza().GetConnectionString()))
             {
                 SqlCommand sqlCommand = con.CreateCommand();
+
                 sqlCommand.CommandText = $"SELECT IdLibro, Titolo, AnnoPubblicazione, IsDisponibile FROM Libro";
                 //sqlCommand.Parameters.AddWithValue("@valIdLibro", id);
                 //sqlCommand.Parameters.AddWithValue("@valTitolo", lib.Titolo);

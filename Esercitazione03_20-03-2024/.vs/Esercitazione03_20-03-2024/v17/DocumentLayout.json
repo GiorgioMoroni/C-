@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\utente\\Desktop\\Academy_C#\\Esercitazione03_20-03-2024\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EE8695F4-6746-4B74-BB42-59914CB16BC3}|Esercitazione03_20-03-2024\\Esercitazione03_20-03-2024.csproj|c:\\users\\utente\\desktop\\academy_c#\\esercitazione03_20-03-2024\\esercitazione03_20-03-2024\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE8695F4-6746-4B74-BB42-59914CB16BC3}|Esercitazione03_20-03-2024\\Esercitazione03_20-03-2024.csproj|solutionrelative:esercitazione03_20-03-2024\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EE8695F4-6746-4B74-BB42-59914CB16BC3}|Esercitazione03_20-03-2024\\Esercitazione03_20-03-2024.csproj|c:\\users\\utente\\desktop\\academy_c#\\esercitazione03_20-03-2024\\esercitazione03_20-03-2024\\dal\\librodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE8695F4-6746-4B74-BB42-59914CB16BC3}|Esercitazione03_20-03-2024\\Esercitazione03_20-03-2024.csproj|solutionrelative:esercitazione03_20-03-2024\\dal\\librodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE8695F4-6746-4B74-BB42-59914CB16BC3}|Esercitazione03_20-03-2024\\Esercitazione03_20-03-2024.csproj|c:\\users\\utente\\desktop\\academy_c#\\esercitazione03_20-03-2024\\esercitazione03_20-03-2024\\dal\\utentedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE8695F4-6746-4B74-BB42-59914CB16BC3}|Esercitazione03_20-03-2024\\Esercitazione03_20-03-2024.csproj|solutionrelative:esercitazione03_20-03-2024\\dal\\utentedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE8695F4-6746-4B74-BB42-59914CB16BC3}|Esercitazione03_20-03-2024\\Esercitazione03_20-03-2024.csproj|c:\\users\\utente\\desktop\\academy_c#\\esercitazione03_20-03-2024\\esercitazione03_20-03-2024\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EE8695F4-6746-4B74-BB42-59914CB16BC3}|Esercitazione03_20-03-2024\\Esercitazione03_20-03-2024.csproj|solutionrelative:esercitazione03_20-03-2024\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EE8695F4-6746-4B74-BB42-59914CB16BC3}|Esercitazione03_20-03-2024\\Esercitazione03_20-03-2024.csproj|c:\\users\\utente\\desktop\\academy_c#\\esercitazione03_20-03-2024\\esercitazione03_20-03-2024\\utilites\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EE8695F4-6746-4B74-BB42-59914CB16BC3}|Esercitazione03_20-03-2024\\Esercitazione03_20-03-2024.csproj|solutionrelative:esercitazione03_20-03-2024\\utilites\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EE8695F4-6746-4B74-BB42-59914CB16BC3}|Esercitazione03_20-03-2024\\Esercitazione03_20-03-2024.csproj|c:\\users\\utente\\desktop\\academy_c#\\esercitazione03_20-03-2024\\esercitazione03_20-03-2024\\dal\\librodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE8695F4-6746-4B74-BB42-59914CB16BC3}|Esercitazione03_20-03-2024\\Esercitazione03_20-03-2024.csproj|solutionrelative:esercitazione03_20-03-2024\\dal\\librodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EE8695F4-6746-4B74-BB42-59914CB16BC3}|Esercitazione03_20-03-2024\\Esercitazione03_20-03-2024.csproj|c:\\users\\utente\\desktop\\academy_c#\\esercitazione03_20-03-2024\\esercitazione03_20-03-2024\\dal\\idal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE8695F4-6746-4B74-BB42-59914CB16BC3}|Esercitazione03_20-03-2024\\Esercitazione03_20-03-2024.csproj|solutionrelative:esercitazione03_20-03-2024\\dal\\idal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EE8695F4-6746-4B74-BB42-59914CB16BC3}|Esercitazione03_20-03-2024\\Esercitazione03_20-03-2024.csproj|c:\\users\\utente\\desktop\\academy_c#\\esercitazione03_20-03-2024\\esercitazione03_20-03-2024\\models\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,8 +31,8 @@
       "RelativeMoniker": "D:0:0:{EE8695F4-6746-4B74-BB42-59914CB16BC3}|Esercitazione03_20-03-2024\\Esercitazione03_20-03-2024.csproj|solutionrelative:esercitazione03_20-03-2024\\models\\utente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EE8695F4-6746-4B74-BB42-59914CB16BC3}|Esercitazione03_20-03-2024\\Esercitazione03_20-03-2024.csproj|c:\\users\\utente\\desktop\\academy_c#\\esercitazione03_20-03-2024\\esercitazione03_20-03-2024\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{EE8695F4-6746-4B74-BB42-59914CB16BC3}|Esercitazione03_20-03-2024\\Esercitazione03_20-03-2024.csproj|solutionrelative:esercitazione03_20-03-2024\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{EE8695F4-6746-4B74-BB42-59914CB16BC3}|Esercitazione03_20-03-2024\\Esercitazione03_20-03-2024.csproj|c:\\users\\utente\\desktop\\academy_c#\\esercitazione03_20-03-2024\\esercitazione03_20-03-2024\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE8695F4-6746-4B74-BB42-59914CB16BC3}|Esercitazione03_20-03-2024\\Esercitazione03_20-03-2024.csproj|solutionrelative:esercitazione03_20-03-2024\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EE8695F4-6746-4B74-BB42-59914CB16BC3}|Esercitazione03_20-03-2024\\Esercitazione03_20-03-2024.csproj|c:\\users\\utente\\desktop\\academy_c#\\esercitazione03_20-03-2024\\esercitazione03_20-03-2024\\dal\\prestitodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -33,14 +41,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{EE8695F4-6746-4B74-BB42-59914CB16BC3}|Esercitazione03_20-03-2024\\Esercitazione03_20-03-2024.csproj|c:\\users\\utente\\desktop\\academy_c#\\esercitazione03_20-03-2024\\esercitazione03_20-03-2024\\models\\prestito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EE8695F4-6746-4B74-BB42-59914CB16BC3}|Esercitazione03_20-03-2024\\Esercitazione03_20-03-2024.csproj|solutionrelative:esercitazione03_20-03-2024\\models\\prestito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EE8695F4-6746-4B74-BB42-59914CB16BC3}|Esercitazione03_20-03-2024\\Esercitazione03_20-03-2024.csproj|c:\\users\\utente\\desktop\\academy_c#\\esercitazione03_20-03-2024\\esercitazione03_20-03-2024\\dal\\utentedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE8695F4-6746-4B74-BB42-59914CB16BC3}|Esercitazione03_20-03-2024\\Esercitazione03_20-03-2024.csproj|solutionrelative:esercitazione03_20-03-2024\\dal\\utentedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EE8695F4-6746-4B74-BB42-59914CB16BC3}|Esercitazione03_20-03-2024\\Esercitazione03_20-03-2024.csproj|c:\\users\\utente\\desktop\\academy_c#\\esercitazione03_20-03-2024\\esercitazione03_20-03-2024\\dal\\idal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE8695F4-6746-4B74-BB42-59914CB16BC3}|Esercitazione03_20-03-2024\\Esercitazione03_20-03-2024.csproj|solutionrelative:esercitazione03_20-03-2024\\dal\\idal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,37 +50,35 @@
       "DocumentGroups": [
         {
           "DockedWidth": 339,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "AppSettings.json",
               "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Academy_C#\\Esercitazione03_20-03-2024\\Esercitazione03_20-03-2024\\AppSettings.json",
               "RelativeDocumentMoniker": "Esercitazione03_20-03-2024\\AppSettings.json",
               "ToolTip": "C:\\Users\\utente\\Desktop\\Academy_C#\\Esercitazione03_20-03-2024\\Esercitazione03_20-03-2024\\AppSettings.json",
               "RelativeToolTip": "Esercitazione03_20-03-2024\\AppSettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-03-20T15:00:18.502Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-20T15:00:18.502Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Config.cs",
               "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Academy_C#\\Esercitazione03_20-03-2024\\Esercitazione03_20-03-2024\\Utilites\\Config.cs",
               "RelativeDocumentMoniker": "Esercitazione03_20-03-2024\\Utilites\\Config.cs",
               "ToolTip": "C:\\Users\\utente\\Desktop\\Academy_C#\\Esercitazione03_20-03-2024\\Esercitazione03_20-03-2024\\Utilites\\Config.cs",
               "RelativeToolTip": "Esercitazione03_20-03-2024\\Utilites\\Config.cs",
-              "ViewState": "AQIAABEAAACAIDMzMzMPwB8AAABeAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwBcAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-20T14:59:44.493Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-20T14:59:44.493Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "PrestitoDAL.cs",
               "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Academy_C#\\Esercitazione03_20-03-2024\\Esercitazione03_20-03-2024\\DAL\\PrestitoDAL.cs",
               "RelativeDocumentMoniker": "Esercitazione03_20-03-2024\\DAL\\PrestitoDAL.cs",
@@ -88,51 +86,48 @@
               "RelativeToolTip": "Esercitazione03_20-03-2024\\DAL\\PrestitoDAL.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-20T14:52:00.774Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-20T14:52:00.774Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 1,
               "Title": "UtenteDAL.cs",
               "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Academy_C#\\Esercitazione03_20-03-2024\\Esercitazione03_20-03-2024\\DAL\\UtenteDAL.cs",
               "RelativeDocumentMoniker": "Esercitazione03_20-03-2024\\DAL\\UtenteDAL.cs",
               "ToolTip": "C:\\Users\\utente\\Desktop\\Academy_C#\\Esercitazione03_20-03-2024\\Esercitazione03_20-03-2024\\DAL\\UtenteDAL.cs",
               "RelativeToolTip": "Esercitazione03_20-03-2024\\DAL\\UtenteDAL.cs",
-              "ViewState": "AQIAAAUAAAAAmZmZmZkZwBMAAAAqAAAA",
+              "ViewState": "AQIAAAUAAADwyczMzMwOwAsAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-20T14:51:25.277Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-20T14:51:25.277Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "LibroDAL.cs",
               "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Academy_C#\\Esercitazione03_20-03-2024\\Esercitazione03_20-03-2024\\DAL\\LibroDAL.cs",
               "RelativeDocumentMoniker": "Esercitazione03_20-03-2024\\DAL\\LibroDAL.cs",
               "ToolTip": "C:\\Users\\utente\\Desktop\\Academy_C#\\Esercitazione03_20-03-2024\\Esercitazione03_20-03-2024\\DAL\\LibroDAL.cs",
               "RelativeToolTip": "Esercitazione03_20-03-2024\\DAL\\LibroDAL.cs",
-              "ViewState": "AQIAABQAAADASs3MzMwYwCkAAAA5AAAA",
+              "ViewState": "AQIAAIgAAAAAY2ZmZmYswKcAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-20T14:50:28.693Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 4,
               "Title": "IDal.cs",
               "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Academy_C#\\Esercitazione03_20-03-2024\\Esercitazione03_20-03-2024\\DAL\\IDal.cs",
               "RelativeDocumentMoniker": "Esercitazione03_20-03-2024\\DAL\\IDal.cs",
               "ToolTip": "C:\\Users\\utente\\Desktop\\Academy_C#\\Esercitazione03_20-03-2024\\Esercitazione03_20-03-2024\\DAL\\IDal.cs",
               "RelativeToolTip": "Esercitazione03_20-03-2024\\DAL\\IDal.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAABUPRAAAAAAAAAA",
+              "ViewState": "AQIAAAUAAAAAAAAAAABUPQoAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-20T14:48:53.436Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-20T14:48:53.436Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "Prestito.cs",
               "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Academy_C#\\Esercitazione03_20-03-2024\\Esercitazione03_20-03-2024\\Models\\Prestito.cs",
               "RelativeDocumentMoniker": "Esercitazione03_20-03-2024\\Models\\Prestito.cs",
@@ -140,47 +135,43 @@
               "RelativeToolTip": "Esercitazione03_20-03-2024\\Models\\Prestito.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-20T14:41:36.922Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-20T14:41:36.922Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Utente.cs",
               "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Academy_C#\\Esercitazione03_20-03-2024\\Esercitazione03_20-03-2024\\Models\\Utente.cs",
               "RelativeDocumentMoniker": "Esercitazione03_20-03-2024\\Models\\Utente.cs",
               "ToolTip": "C:\\Users\\utente\\Desktop\\Academy_C#\\Esercitazione03_20-03-2024\\Esercitazione03_20-03-2024\\Models\\Utente.cs",
               "RelativeToolTip": "Esercitazione03_20-03-2024\\Models\\Utente.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAApAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-20T14:41:20.942Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-20T14:41:20.942Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Libro.cs",
               "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Academy_C#\\Esercitazione03_20-03-2024\\Esercitazione03_20-03-2024\\Models\\Libro.cs",
               "RelativeDocumentMoniker": "Esercitazione03_20-03-2024\\Models\\Libro.cs",
               "ToolTip": "C:\\Users\\utente\\Desktop\\Academy_C#\\Esercitazione03_20-03-2024\\Esercitazione03_20-03-2024\\Models\\Libro.cs",
               "RelativeToolTip": "Esercitazione03_20-03-2024\\Models\\Libro.cs",
-              "ViewState": "AQIAABMAAADAy8zMzAwnwCEAAAAAAAAA",
+              "ViewState": "AQIAAAcAAAAAzMzMzAwtwAoAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-20T14:41:06.277Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-20T14:41:06.277Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Academy_C#\\Esercitazione03_20-03-2024\\Esercitazione03_20-03-2024\\Program.cs",
               "RelativeDocumentMoniker": "Esercitazione03_20-03-2024\\Program.cs",
               "ToolTip": "C:\\Users\\utente\\Desktop\\Academy_C#\\Esercitazione03_20-03-2024\\Esercitazione03_20-03-2024\\Program.cs",
               "RelativeToolTip": "Esercitazione03_20-03-2024\\Program.cs",
-              "ViewState": "AQIAAA0AAACAZWZmZmYawBwAAAA8AAAA",
+              "ViewState": "AQIAAAcAAABw//////84wBwAAAA5AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-20T14:37:58.671Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-20T14:37:58.671Z"
             }
           ]
         }
