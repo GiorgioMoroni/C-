@@ -18,4 +18,12 @@ public partial class Evento
     public int CapacitaMax { get; set; }
 
     public virtual ICollection<Partecipante> PartecipanteRifs { get; set; } = new List<Partecipante>();
+
+
+
+
+    public override string ToString()
+    {
+        return $"[Evento] Id: {IdEvento}, Nome: {NomeEvento}, Descrizione: {Descrizione}, Data Evento: {DataEvento.ToString("d")}, Luogo: {Luogo}, Capacità: {CapacitaMax}";
+    }
 }

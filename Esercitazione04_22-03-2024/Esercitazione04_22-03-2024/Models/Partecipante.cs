@@ -27,4 +27,9 @@ public partial class Partecipante
         Email = email;
         
     }
+
+    public override string ToString()
+    {
+        return $"[PARTECIPANTE] Id: {IdPartecipante}, Nome: {NomePar} , Cognome: {Cognome}, Telefono: {Telefono}, Email: {Email}";
+    }
 }
