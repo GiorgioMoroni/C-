@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\utente\\Desktop\\Academy_C#\\ASP_Lez06_task_MarioKart\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6F7DEB8C-1F27-486D-A725-D3EB03992E11}|ASP_Lez06_task_MarioKart\\ASP_Lez06_task_MarioKart.csproj|c:\\users\\utente\\desktop\\academy_c#\\asp_lez06_task_mariokart\\asp_lez06_task_mariokart\\models\\mariokartcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F7DEB8C-1F27-486D-A725-D3EB03992E11}|ASP_Lez06_task_MarioKart\\ASP_Lez06_task_MarioKart.csproj|solutionrelative:asp_lez06_task_mariokart\\models\\mariokartcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F7DEB8C-1F27-486D-A725-D3EB03992E11}|ASP_Lez06_task_MarioKart\\ASP_Lez06_task_MarioKart.csproj|c:\\users\\utente\\desktop\\academy_c#\\asp_lez06_task_mariokart\\asp_lez06_task_mariokart\\models\\torneo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F7DEB8C-1F27-486D-A725-D3EB03992E11}|ASP_Lez06_task_MarioKart\\ASP_Lez06_task_MarioKart.csproj|solutionrelative:asp_lez06_task_mariokart\\models\\torneo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F7DEB8C-1F27-486D-A725-D3EB03992E11}|ASP_Lez06_task_MarioKart\\ASP_Lez06_task_MarioKart.csproj|c:\\users\\utente\\desktop\\academy_c#\\asp_lez06_task_mariokart\\asp_lez06_task_mariokart\\models\\squadra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F7DEB8C-1F27-486D-A725-D3EB03992E11}|ASP_Lez06_task_MarioKart\\ASP_Lez06_task_MarioKart.csproj|solutionrelative:asp_lez06_task_mariokart\\models\\squadra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F7DEB8C-1F27-486D-A725-D3EB03992E11}|ASP_Lez06_task_MarioKart\\ASP_Lez06_task_MarioKart.csproj|c:\\users\\utente\\desktop\\academy_c#\\asp_lez06_task_mariokart\\asp_lez06_task_mariokart\\models\\personaggio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F7DEB8C-1F27-486D-A725-D3EB03992E11}|ASP_Lez06_task_MarioKart\\ASP_Lez06_task_MarioKart.csproj|solutionrelative:asp_lez06_task_mariokart\\models\\personaggio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 339,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Torneo.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Academy_C#\\ASP_Lez06_task_MarioKart\\ASP_Lez06_task_MarioKart\\Models\\Torneo.cs",
+              "RelativeDocumentMoniker": "ASP_Lez06_task_MarioKart\\Models\\Torneo.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Academy_C#\\ASP_Lez06_task_MarioKart\\ASP_Lez06_task_MarioKart\\Models\\Torneo.cs",
+              "RelativeToolTip": "ASP_Lez06_task_MarioKart\\Models\\Torneo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T15:31:49.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Squadra.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Academy_C#\\ASP_Lez06_task_MarioKart\\ASP_Lez06_task_MarioKart\\Models\\Squadra.cs",
+              "RelativeDocumentMoniker": "ASP_Lez06_task_MarioKart\\Models\\Squadra.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Academy_C#\\ASP_Lez06_task_MarioKart\\ASP_Lez06_task_MarioKart\\Models\\Squadra.cs",
+              "RelativeToolTip": "ASP_Lez06_task_MarioKart\\Models\\Squadra.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T15:30:47.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Personaggio.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Academy_C#\\ASP_Lez06_task_MarioKart\\ASP_Lez06_task_MarioKart\\Models\\Personaggio.cs",
+              "RelativeDocumentMoniker": "ASP_Lez06_task_MarioKart\\Models\\Personaggio.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Academy_C#\\ASP_Lez06_task_MarioKart\\ASP_Lez06_task_MarioKart\\Models\\Personaggio.cs",
+              "RelativeToolTip": "ASP_Lez06_task_MarioKart\\Models\\Personaggio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T15:27:02.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MarioKartContext.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Academy_C#\\ASP_Lez06_task_MarioKart\\ASP_Lez06_task_MarioKart\\Models\\MarioKartContext.cs",
+              "RelativeDocumentMoniker": "ASP_Lez06_task_MarioKart\\Models\\MarioKartContext.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Academy_C#\\ASP_Lez06_task_MarioKart\\ASP_Lez06_task_MarioKart\\Models\\MarioKartContext.cs",
+              "RelativeToolTip": "ASP_Lez06_task_MarioKart\\Models\\MarioKartContext.cs",
+              "ViewState": "AQIAACAAAABAm5mZmZktwC4AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T15:22:29.254Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

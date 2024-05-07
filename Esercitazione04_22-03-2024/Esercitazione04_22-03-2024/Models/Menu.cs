@@ -12,7 +12,7 @@ namespace Esercitazione04_22_03_2024.Models
         public static void UtenteConsole()
         {
             bool insAbilitato = true;
-            while(insAbilitato)
+            while (insAbilitato)
             {
                 using (var ctx = new AccLez28EsercitazioneEventiContext())
                 {
@@ -31,7 +31,7 @@ namespace Esercitazione04_22_03_2024.Models
                         {
                             case "N":
                                 Evento e = new Evento();
-                                
+
                                 Console.WriteLine("Inserisci nome evento");
                                 string? nomeEvento = Console.ReadLine();
                                 e.NomeEvento = nomeEvento;
@@ -101,18 +101,18 @@ namespace Esercitazione04_22_03_2024.Models
                                 {
                                     Console.WriteLine("Evento non trovato");
                                 }
-                                
+
                                 break;
 
                             case "S":
-                                
+
                                 List<Evento> elenco = ctx.Eventos.ToList();
 
                                 foreach (Evento eve in elenco)
                                 {
                                     Console.WriteLine(eve.ToString());
                                 }
-                                
+
                                 break;
 
                             default:
@@ -123,7 +123,7 @@ namespace Esercitazione04_22_03_2024.Models
                         #endregion
 
                     }
-                    else if(input != null && input.Equals("partecipanti"))
+                    else if (input != null && input.Equals("partecipanti"))
                     {
                         #region Gestione Partecipanti
                         Console.WriteLine("Inserisci nuovo partecipante con N, aggiorna partecipante esistente con A o stampa tutti i partecipanti con S");
@@ -201,9 +201,9 @@ namespace Esercitazione04_22_03_2024.Models
                             case "S":
                                 List<Partecipante> elenco = ctx.Partecipantes.ToList();
 
-                                foreach (Partecipante p in elenco)
+                                foreach (Partecipante pa in elenco)
                                 {
-                                    Console.WriteLine(p.ToString());
+                                    Console.WriteLine(pa.ToString());
                                 }
 
                                 break;
@@ -218,7 +218,7 @@ namespace Esercitazione04_22_03_2024.Models
 
                     }
                 }
-            
+            }
             
         }
     }

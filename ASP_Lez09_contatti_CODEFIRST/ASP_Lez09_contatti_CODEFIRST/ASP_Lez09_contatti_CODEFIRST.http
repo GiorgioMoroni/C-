@@ -1,0 +1,6 @@
+@ASP_Lez09_contatti_CODEFIRST_HostAddress = http://localhost:5217
+
+GET {{ASP_Lez09_contatti_CODEFIRST_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

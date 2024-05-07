@@ -1,0 +1,6 @@
+@ASP_Lez06_task_MarioKart_HostAddress = http://localhost:5080
+
+GET {{ASP_Lez06_task_MarioKart_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

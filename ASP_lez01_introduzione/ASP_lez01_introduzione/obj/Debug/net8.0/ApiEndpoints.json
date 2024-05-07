@@ -1,0 +1,62 @@
+[
+  {
+    "ContainingType": "ASP_lez01_introduzione.Controllers.StudenteController",
+    "Method": "RecuperaStudenti",
+    "RelativePath": "api/studente/dettaglio",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "ASP_lez01_introduzione.Models.Studente",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ASP_lez01_introduzione.Controllers.StudenteController",
+    "Method": "ElencoStudenti",
+    "RelativePath": "api/studente/elenco",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[ASP_lez01_introduzione.Models.Studente, ASP_lez01_introduzione, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ASP_lez01_introduzione.Controllers.StudenteController",
+    "Method": "TestGet",
+    "RelativePath": "api/studente/test",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ASP_lez01_introduzione.Controllers.StudenteController",
+    "Method": "TestPost",
+    "RelativePath": "api/studente/test",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

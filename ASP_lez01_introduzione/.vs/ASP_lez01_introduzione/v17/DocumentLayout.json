@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\utente\\Desktop\\Academy_C#\\ASP_lez01_introduzione\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E588FCE8-8027-4EB4-A9E6-EA7E014FDEB4}|ASP_lez01_introduzione\\ASP_lez01_introduzione.csproj|c:\\users\\utente\\desktop\\academy_c#\\asp_lez01_introduzione\\asp_lez01_introduzione\\controllers\\studentecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E588FCE8-8027-4EB4-A9E6-EA7E014FDEB4}|ASP_lez01_introduzione\\ASP_lez01_introduzione.csproj|solutionrelative:asp_lez01_introduzione\\controllers\\studentecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E588FCE8-8027-4EB4-A9E6-EA7E014FDEB4}|ASP_lez01_introduzione\\ASP_lez01_introduzione.csproj|c:\\users\\utente\\desktop\\academy_c#\\asp_lez01_introduzione\\asp_lez01_introduzione\\models\\studente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E588FCE8-8027-4EB4-A9E6-EA7E014FDEB4}|ASP_lez01_introduzione\\ASP_lez01_introduzione.csproj|solutionrelative:asp_lez01_introduzione\\models\\studente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 339,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Studente.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Academy_C#\\ASP_lez01_introduzione\\ASP_lez01_introduzione\\Models\\Studente.cs",
+              "RelativeDocumentMoniker": "ASP_lez01_introduzione\\Models\\Studente.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Academy_C#\\ASP_lez01_introduzione\\ASP_lez01_introduzione\\Models\\Studente.cs",
+              "RelativeToolTip": "ASP_lez01_introduzione\\Models\\Studente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T13:03:11.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudenteController.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Academy_C#\\ASP_lez01_introduzione\\ASP_lez01_introduzione\\Controllers\\StudenteController.cs",
+              "RelativeDocumentMoniker": "ASP_lez01_introduzione\\Controllers\\StudenteController.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Academy_C#\\ASP_lez01_introduzione\\ASP_lez01_introduzione\\Controllers\\StudenteController.cs",
+              "RelativeToolTip": "ASP_lez01_introduzione\\Controllers\\StudenteController.cs",
+              "ViewState": "AQIAADwAAAAAopmZmRkWwEoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T12:43:52.969Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

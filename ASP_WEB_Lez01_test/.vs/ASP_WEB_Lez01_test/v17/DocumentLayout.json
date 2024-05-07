@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\utente\\Desktop\\Academy_C#\\ASP_WEB_Lez01_test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7D6240C1-7AE2-4D92-AA1B-BBB1BC8D5183}|ASP_WEB_Lez01_test\\ASP_WEB_Lez01_test.csproj|c:\\users\\utente\\desktop\\academy_c#\\asp_web_lez01_test\\asp_web_lez01_test\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D6240C1-7AE2-4D92-AA1B-BBB1BC8D5183}|ASP_WEB_Lez01_test\\ASP_WEB_Lez01_test.csproj|solutionrelative:asp_web_lez01_test\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D6240C1-7AE2-4D92-AA1B-BBB1BC8D5183}|ASP_WEB_Lez01_test\\ASP_WEB_Lez01_test.csproj|c:\\users\\utente\\desktop\\academy_c#\\asp_web_lez01_test\\asp_web_lez01_test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D6240C1-7AE2-4D92-AA1B-BBB1BC8D5183}|ASP_WEB_Lez01_test\\ASP_WEB_Lez01_test.csproj|solutionrelative:asp_web_lez01_test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D6240C1-7AE2-4D92-AA1B-BBB1BC8D5183}|ASP_WEB_Lez01_test\\ASP_WEB_Lez01_test.csproj|c:\\users\\utente\\desktop\\academy_c#\\asp_web_lez01_test\\asp_web_lez01_test\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D6240C1-7AE2-4D92-AA1B-BBB1BC8D5183}|ASP_WEB_Lez01_test\\ASP_WEB_Lez01_test.csproj|solutionrelative:asp_web_lez01_test\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D6240C1-7AE2-4D92-AA1B-BBB1BC8D5183}|ASP_WEB_Lez01_test\\ASP_WEB_Lez01_test.csproj|c:\\users\\utente\\desktop\\academy_c#\\asp_web_lez01_test\\asp_web_lez01_test\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D6240C1-7AE2-4D92-AA1B-BBB1BC8D5183}|ASP_WEB_Lez01_test\\ASP_WEB_Lez01_test.csproj|solutionrelative:asp_web_lez01_test\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D6240C1-7AE2-4D92-AA1B-BBB1BC8D5183}|ASP_WEB_Lez01_test\\ASP_WEB_Lez01_test.csproj|c:\\users\\utente\\desktop\\academy_c#\\asp_web_lez01_test\\asp_web_lez01_test\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D6240C1-7AE2-4D92-AA1B-BBB1BC8D5183}|ASP_WEB_Lez01_test\\ASP_WEB_Lez01_test.csproj|solutionrelative:asp_web_lez01_test\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D6240C1-7AE2-4D92-AA1B-BBB1BC8D5183}|ASP_WEB_Lez01_test\\ASP_WEB_Lez01_test.csproj|c:\\users\\utente\\desktop\\academy_c#\\asp_web_lez01_test\\asp_web_lez01_test\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D6240C1-7AE2-4D92-AA1B-BBB1BC8D5183}|ASP_WEB_Lez01_test\\ASP_WEB_Lez01_test.csproj|solutionrelative:asp_web_lez01_test\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 339,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Academy_C#\\ASP_WEB_Lez01_test\\ASP_WEB_Lez01_test\\Program.cs",
+              "RelativeDocumentMoniker": "ASP_WEB_Lez01_test\\Program.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Academy_C#\\ASP_WEB_Lez01_test\\ASP_WEB_Lez01_test\\Program.cs",
+              "RelativeToolTip": "ASP_WEB_Lez01_test\\Program.cs",
+              "ViewState": "AQIAABQAAADAjJmZmZkdwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T09:47:36.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Academy_C#\\ASP_WEB_Lez01_test\\ASP_WEB_Lez01_test\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "ASP_WEB_Lez01_test\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Academy_C#\\ASP_WEB_Lez01_test\\ASP_WEB_Lez01_test\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "ASP_WEB_Lez01_test\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-16T08:54:12.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Academy_C#\\ASP_WEB_Lez01_test\\ASP_WEB_Lez01_test\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "ASP_WEB_Lez01_test\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Academy_C#\\ASP_WEB_Lez01_test\\ASP_WEB_Lez01_test\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "ASP_WEB_Lez01_test\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-16T08:54:10.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Academy_C#\\ASP_WEB_Lez01_test\\ASP_WEB_Lez01_test\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "ASP_WEB_Lez01_test\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Academy_C#\\ASP_WEB_Lez01_test\\ASP_WEB_Lez01_test\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "ASP_WEB_Lez01_test\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-16T08:54:08.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Academy_C#\\ASP_WEB_Lez01_test\\ASP_WEB_Lez01_test\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ASP_WEB_Lez01_test\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Academy_C#\\ASP_WEB_Lez01_test\\ASP_WEB_Lez01_test\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ASP_WEB_Lez01_test\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-16T08:54:01.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Academy_C#\\ASP_WEB_Lez01_test\\ASP_WEB_Lez01_test\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ASP_WEB_Lez01_test\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Academy_C#\\ASP_WEB_Lez01_test\\ASP_WEB_Lez01_test\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ASP_WEB_Lez01_test\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAsAAACAlJmZmdkpwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T08:45:58.925Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

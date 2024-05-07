@@ -1,0 +1,113 @@
+[
+  {
+    "ContainingType": "TaskChat.Controllers.AuthController",
+    "Method": "Login",
+    "RelativePath": "Auth/{nome}/{password}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "nome",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "password",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TaskChat.Controllers.AuthController",
+    "Method": "Loggati",
+    "RelativePath": "Auth/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "objLogin",
+        "Type": "TaskChat.DTO.UtenteDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TaskChat.Controllers.MessaggioController",
+    "Method": "InserisciMessaggio",
+    "RelativePath": "Messaggio/sendMessage/{staID}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "m",
+        "Type": "TaskChat.Models.Messaggio",
+        "IsRequired": true
+      },
+      {
+        "Name": "staID",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TaskChat.Controllers.StanzaController",
+    "Method": "NuovaStanza",
+    "RelativePath": "Stanza",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "newRoom",
+        "Type": "TaskChat.DTO.StanzaDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TaskChat.Controllers.StanzaController",
+    "Method": "AddUtente",
+    "RelativePath": "Stanza/chat/addUser/{id}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "username",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TaskChat.Controllers.UtenteController",
+    "Method": "Register",
+    "RelativePath": "Utente/Register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "utente",
+        "Type": "TaskChat.DTO.UtenteDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

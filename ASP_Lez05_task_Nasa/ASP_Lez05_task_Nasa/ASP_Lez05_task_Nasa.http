@@ -1,0 +1,6 @@
+@ASP_Lez05_task_Nasa_HostAddress = http://localhost:5051
+
+GET {{ASP_Lez05_task_Nasa_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

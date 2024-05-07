@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\utente\\Desktop\\Academy_C#\\ASP_Lez03_EF_Gestione_Ferramenta\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5DA198FB-1D3E-4CA1-B4FA-33A02F3683EB}|ASP_Lez03_EF_Gestione_Ferramenta\\ASP_Lez03_EF_Gestione_Ferramenta.csproj|c:\\users\\utente\\desktop\\academy_c#\\asp_lez03_ef_gestione_ferramenta\\asp_lez03_ef_gestione_ferramenta\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5DA198FB-1D3E-4CA1-B4FA-33A02F3683EB}|ASP_Lez03_EF_Gestione_Ferramenta\\ASP_Lez03_EF_Gestione_Ferramenta.csproj|solutionrelative:asp_lez03_ef_gestione_ferramenta\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DA198FB-1D3E-4CA1-B4FA-33A02F3683EB}|ASP_Lez03_EF_Gestione_Ferramenta\\ASP_Lez03_EF_Gestione_Ferramenta.csproj|c:\\users\\utente\\desktop\\academy_c#\\asp_lez03_ef_gestione_ferramenta\\asp_lez03_ef_gestione_ferramenta\\controllers\\prodottocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DA198FB-1D3E-4CA1-B4FA-33A02F3683EB}|ASP_Lez03_EF_Gestione_Ferramenta\\ASP_Lez03_EF_Gestione_Ferramenta.csproj|solutionrelative:asp_lez03_ef_gestione_ferramenta\\controllers\\prodottocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DA198FB-1D3E-4CA1-B4FA-33A02F3683EB}|ASP_Lez03_EF_Gestione_Ferramenta\\ASP_Lez03_EF_Gestione_Ferramenta.csproj|c:\\users\\utente\\desktop\\academy_c#\\asp_lez03_ef_gestione_ferramenta\\asp_lez03_ef_gestione_ferramenta\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DA198FB-1D3E-4CA1-B4FA-33A02F3683EB}|ASP_Lez03_EF_Gestione_Ferramenta\\ASP_Lez03_EF_Gestione_Ferramenta.csproj|solutionrelative:asp_lez03_ef_gestione_ferramenta\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DA198FB-1D3E-4CA1-B4FA-33A02F3683EB}|ASP_Lez03_EF_Gestione_Ferramenta\\ASP_Lez03_EF_Gestione_Ferramenta.csproj|c:\\users\\utente\\desktop\\academy_c#\\asp_lez03_ef_gestione_ferramenta\\asp_lez03_ef_gestione_ferramenta\\models\\prodotto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DA198FB-1D3E-4CA1-B4FA-33A02F3683EB}|ASP_Lez03_EF_Gestione_Ferramenta\\ASP_Lez03_EF_Gestione_Ferramenta.csproj|solutionrelative:asp_lez03_ef_gestione_ferramenta\\models\\prodotto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DA198FB-1D3E-4CA1-B4FA-33A02F3683EB}|ASP_Lez03_EF_Gestione_Ferramenta\\ASP_Lez03_EF_Gestione_Ferramenta.csproj|c:\\users\\utente\\desktop\\academy_c#\\asp_lez03_ef_gestione_ferramenta\\asp_lez03_ef_gestione_ferramenta\\models\\ferramentacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DA198FB-1D3E-4CA1-B4FA-33A02F3683EB}|ASP_Lez03_EF_Gestione_Ferramenta\\ASP_Lez03_EF_Gestione_Ferramenta.csproj|solutionrelative:asp_lez03_ef_gestione_ferramenta\\models\\ferramentacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DA198FB-1D3E-4CA1-B4FA-33A02F3683EB}|ASP_Lez03_EF_Gestione_Ferramenta\\ASP_Lez03_EF_Gestione_Ferramenta.csproj|c:\\users\\utente\\desktop\\academy_c#\\asp_lez03_ef_gestione_ferramenta\\asp_lez03_ef_gestione_ferramenta\\repos\\prodottorepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DA198FB-1D3E-4CA1-B4FA-33A02F3683EB}|ASP_Lez03_EF_Gestione_Ferramenta\\ASP_Lez03_EF_Gestione_Ferramenta.csproj|solutionrelative:asp_lez03_ef_gestione_ferramenta\\repos\\prodottorepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DA198FB-1D3E-4CA1-B4FA-33A02F3683EB}|ASP_Lez03_EF_Gestione_Ferramenta\\ASP_Lez03_EF_Gestione_Ferramenta.csproj|c:\\users\\utente\\desktop\\academy_c#\\asp_lez03_ef_gestione_ferramenta\\asp_lez03_ef_gestione_ferramenta\\repos\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DA198FB-1D3E-4CA1-B4FA-33A02F3683EB}|ASP_Lez03_EF_Gestione_Ferramenta\\ASP_Lez03_EF_Gestione_Ferramenta.csproj|solutionrelative:asp_lez03_ef_gestione_ferramenta\\repos\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 339,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProdottoController.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Academy_C#\\ASP_Lez03_EF_Gestione_Ferramenta\\ASP_Lez03_EF_Gestione_Ferramenta\\Controllers\\ProdottoController.cs",
+              "RelativeDocumentMoniker": "ASP_Lez03_EF_Gestione_Ferramenta\\Controllers\\ProdottoController.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Academy_C#\\ASP_Lez03_EF_Gestione_Ferramenta\\ASP_Lez03_EF_Gestione_Ferramenta\\Controllers\\ProdottoController.cs",
+              "RelativeToolTip": "ASP_Lez03_EF_Gestione_Ferramenta\\Controllers\\ProdottoController.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAABTPQoAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T08:52:53.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Academy_C#\\ASP_Lez03_EF_Gestione_Ferramenta\\ASP_Lez03_EF_Gestione_Ferramenta\\appsettings.json",
+              "RelativeDocumentMoniker": "ASP_Lez03_EF_Gestione_Ferramenta\\appsettings.json",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Academy_C#\\ASP_Lez03_EF_Gestione_Ferramenta\\ASP_Lez03_EF_Gestione_Ferramenta\\appsettings.json",
+              "RelativeToolTip": "ASP_Lez03_EF_Gestione_Ferramenta\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAApwAkAAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-04T08:11:20.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Academy_C#\\ASP_Lez03_EF_Gestione_Ferramenta\\ASP_Lez03_EF_Gestione_Ferramenta\\Program.cs",
+              "RelativeDocumentMoniker": "ASP_Lez03_EF_Gestione_Ferramenta\\Program.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Academy_C#\\ASP_Lez03_EF_Gestione_Ferramenta\\ASP_Lez03_EF_Gestione_Ferramenta\\Program.cs",
+              "RelativeToolTip": "ASP_Lez03_EF_Gestione_Ferramenta\\Program.cs",
+              "ViewState": "AQIAAAwAAAAA+jIzMzPjvxkAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T08:10:27.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProdottoRepo.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Academy_C#\\ASP_Lez03_EF_Gestione_Ferramenta\\ASP_Lez03_EF_Gestione_Ferramenta\\Repos\\ProdottoRepo.cs",
+              "RelativeDocumentMoniker": "ASP_Lez03_EF_Gestione_Ferramenta\\Repos\\ProdottoRepo.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Academy_C#\\ASP_Lez03_EF_Gestione_Ferramenta\\ASP_Lez03_EF_Gestione_Ferramenta\\Repos\\ProdottoRepo.cs",
+              "RelativeToolTip": "ASP_Lez03_EF_Gestione_Ferramenta\\Repos\\ProdottoRepo.cs",
+              "ViewState": "AQIAABMAAADg/P////8kwCkAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T08:06:29.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IRepo.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Academy_C#\\ASP_Lez03_EF_Gestione_Ferramenta\\ASP_Lez03_EF_Gestione_Ferramenta\\Repos\\IRepo.cs",
+              "RelativeDocumentMoniker": "ASP_Lez03_EF_Gestione_Ferramenta\\Repos\\IRepo.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Academy_C#\\ASP_Lez03_EF_Gestione_Ferramenta\\ASP_Lez03_EF_Gestione_Ferramenta\\Repos\\IRepo.cs",
+              "RelativeToolTip": "ASP_Lez03_EF_Gestione_Ferramenta\\Repos\\IRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T08:04:35.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FerramentaContext.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Academy_C#\\ASP_Lez03_EF_Gestione_Ferramenta\\ASP_Lez03_EF_Gestione_Ferramenta\\Models\\FerramentaContext.cs",
+              "RelativeDocumentMoniker": "ASP_Lez03_EF_Gestione_Ferramenta\\Models\\FerramentaContext.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Academy_C#\\ASP_Lez03_EF_Gestione_Ferramenta\\ASP_Lez03_EF_Gestione_Ferramenta\\Models\\FerramentaContext.cs",
+              "RelativeToolTip": "ASP_Lez03_EF_Gestione_Ferramenta\\Models\\FerramentaContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T07:56:19.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Prodotto.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Academy_C#\\ASP_Lez03_EF_Gestione_Ferramenta\\ASP_Lez03_EF_Gestione_Ferramenta\\Models\\Prodotto.cs",
+              "RelativeDocumentMoniker": "ASP_Lez03_EF_Gestione_Ferramenta\\Models\\Prodotto.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Academy_C#\\ASP_Lez03_EF_Gestione_Ferramenta\\ASP_Lez03_EF_Gestione_Ferramenta\\Models\\Prodotto.cs",
+              "RelativeToolTip": "ASP_Lez03_EF_Gestione_Ferramenta\\Models\\Prodotto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T07:50:59.731Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

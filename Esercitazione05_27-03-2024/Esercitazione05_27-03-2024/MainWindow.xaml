@@ -1,0 +1,25 @@
+﻿<Window x:Class="Esercitazione05_27_03_2024.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Esercitazione05_27_03_2024"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <DockPanel>
+            <ToolBarTray DockPanel.Dock="Top">
+                <ToolBar>
+                    <Button x:Name="Utenti" Content="Utenti" Click="Utenti_Click" />
+                    <Button x:Name="Categorie" Content="Categorie" Click="Categorie_Click" />
+                    <Button x:Name="Prodotti" Content="Prodotti" Click="Prodotti_Click" />
+
+                    <Button x:Name="Variazioni" Content="Variazioni" Click="Variazioni_Click" />
+                    <Button x:Name="Prezzi" Content="Prezzi" Click="Prezzi_Click" />
+                    <Button x:Name="Ordini" Content="Ordini" Click="Ordini_Click" />
+                </ToolBar>
+            </ToolBarTray>
+            <TextBox AcceptsReturn="True" />
+        </DockPanel>
+    </Grid>
+</Window>

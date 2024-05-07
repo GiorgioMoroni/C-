@@ -1,0 +1,115 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\utente\\Desktop\\Academy_C#\\Esercitazione05_27-03-2024\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{48A4BD7A-6BEC-4717-8A4C-A54A287E0360}|Esercitazione05_27-03-2024\\Esercitazione05_27-03-2024.csproj|c:\\users\\utente\\desktop\\academy_c#\\esercitazione05_27-03-2024\\esercitazione05_27-03-2024\\ordini.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48A4BD7A-6BEC-4717-8A4C-A54A287E0360}|Esercitazione05_27-03-2024\\Esercitazione05_27-03-2024.csproj|solutionrelative:esercitazione05_27-03-2024\\ordini.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48A4BD7A-6BEC-4717-8A4C-A54A287E0360}|Esercitazione05_27-03-2024\\Esercitazione05_27-03-2024.csproj|c:\\users\\utente\\desktop\\academy_c#\\esercitazione05_27-03-2024\\esercitazione05_27-03-2024\\ordini.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{48A4BD7A-6BEC-4717-8A4C-A54A287E0360}|Esercitazione05_27-03-2024\\Esercitazione05_27-03-2024.csproj|solutionrelative:esercitazione05_27-03-2024\\ordini.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48A4BD7A-6BEC-4717-8A4C-A54A287E0360}|Esercitazione05_27-03-2024\\Esercitazione05_27-03-2024.csproj|c:\\users\\utente\\desktop\\academy_c#\\esercitazione05_27-03-2024\\esercitazione05_27-03-2024\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48A4BD7A-6BEC-4717-8A4C-A54A287E0360}|Esercitazione05_27-03-2024\\Esercitazione05_27-03-2024.csproj|solutionrelative:esercitazione05_27-03-2024\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48A4BD7A-6BEC-4717-8A4C-A54A287E0360}|Esercitazione05_27-03-2024\\Esercitazione05_27-03-2024.csproj|c:\\users\\utente\\desktop\\academy_c#\\esercitazione05_27-03-2024\\esercitazione05_27-03-2024\\utenti.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48A4BD7A-6BEC-4717-8A4C-A54A287E0360}|Esercitazione05_27-03-2024\\Esercitazione05_27-03-2024.csproj|solutionrelative:esercitazione05_27-03-2024\\utenti.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48A4BD7A-6BEC-4717-8A4C-A54A287E0360}|Esercitazione05_27-03-2024\\Esercitazione05_27-03-2024.csproj|c:\\users\\utente\\desktop\\academy_c#\\esercitazione05_27-03-2024\\esercitazione05_27-03-2024\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{48A4BD7A-6BEC-4717-8A4C-A54A287E0360}|Esercitazione05_27-03-2024\\Esercitazione05_27-03-2024.csproj|solutionrelative:esercitazione05_27-03-2024\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48A4BD7A-6BEC-4717-8A4C-A54A287E0360}|Esercitazione05_27-03-2024\\Esercitazione05_27-03-2024.csproj|c:\\users\\utente\\desktop\\academy_c#\\esercitazione05_27-03-2024\\esercitazione05_27-03-2024\\prezzi.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{48A4BD7A-6BEC-4717-8A4C-A54A287E0360}|Esercitazione05_27-03-2024\\Esercitazione05_27-03-2024.csproj|solutionrelative:esercitazione05_27-03-2024\\prezzi.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 339,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Prezzi.xaml",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Academy_C#\\Esercitazione05_27-03-2024\\Esercitazione05_27-03-2024\\Prezzi.xaml",
+              "RelativeDocumentMoniker": "Esercitazione05_27-03-2024\\Prezzi.xaml",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Academy_C#\\Esercitazione05_27-03-2024\\Esercitazione05_27-03-2024\\Prezzi.xaml",
+              "RelativeToolTip": "Esercitazione05_27-03-2024\\Prezzi.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-27T16:12:43.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ordini.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Academy_C#\\Esercitazione05_27-03-2024\\Esercitazione05_27-03-2024\\Ordini.xaml.cs",
+              "RelativeDocumentMoniker": "Esercitazione05_27-03-2024\\Ordini.xaml.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Academy_C#\\Esercitazione05_27-03-2024\\Esercitazione05_27-03-2024\\Ordini.xaml.cs",
+              "RelativeToolTip": "Esercitazione05_27-03-2024\\Ordini.xaml.cs",
+              "ViewState": "AQIAAB8AAACAmJmZmZkXwEEAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T16:07:13.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ordini.xaml",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Academy_C#\\Esercitazione05_27-03-2024\\Esercitazione05_27-03-2024\\Ordini.xaml",
+              "RelativeDocumentMoniker": "Esercitazione05_27-03-2024\\Ordini.xaml",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Academy_C#\\Esercitazione05_27-03-2024\\Esercitazione05_27-03-2024\\Ordini.xaml",
+              "RelativeToolTip": "Esercitazione05_27-03-2024\\Ordini.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-27T15:52:54.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Academy_C#\\Esercitazione05_27-03-2024\\Esercitazione05_27-03-2024\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Esercitazione05_27-03-2024\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Academy_C#\\Esercitazione05_27-03-2024\\Esercitazione05_27-03-2024\\MainWindow.xaml",
+              "RelativeToolTip": "Esercitazione05_27-03-2024\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-27T08:12:06.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Academy_C#\\Esercitazione05_27-03-2024\\Esercitazione05_27-03-2024\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Esercitazione05_27-03-2024\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Academy_C#\\Esercitazione05_27-03-2024\\Esercitazione05_27-03-2024\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Esercitazione05_27-03-2024\\MainWindow.xaml.cs",
+              "ViewState": "AQIAACoAAAAAt//////3vzcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T08:12:02.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Utenti.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Academy_C#\\Esercitazione05_27-03-2024\\Esercitazione05_27-03-2024\\Utenti.xaml.cs",
+              "RelativeDocumentMoniker": "Esercitazione05_27-03-2024\\Utenti.xaml.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Academy_C#\\Esercitazione05_27-03-2024\\Esercitazione05_27-03-2024\\Utenti.xaml.cs",
+              "RelativeToolTip": "Esercitazione05_27-03-2024\\Utenti.xaml.cs",
+              "ViewState": "AQIAADsAAAAAWGZmZmbqv0EAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T16:38:09.191Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

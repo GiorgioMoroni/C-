@@ -1,0 +1,229 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\utente\\Desktop\\Academy_C#\\ASP_Lez05_task_Nasa\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F625843-1604-46B1-B9CD-8353137AE331}|ASP_Lez05_task_Nasa\\ASP_Lez05_task_Nasa.csproj|c:\\users\\utente\\desktop\\academy_c#\\asp_lez05_task_nasa\\asp_lez05_task_nasa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F625843-1604-46B1-B9CD-8353137AE331}|ASP_Lez05_task_Nasa\\ASP_Lez05_task_Nasa.csproj|solutionrelative:asp_lez05_task_nasa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F625843-1604-46B1-B9CD-8353137AE331}|ASP_Lez05_task_Nasa\\ASP_Lez05_task_Nasa.csproj|c:\\users\\utente\\desktop\\academy_c#\\asp_lez05_task_nasa\\asp_lez05_task_nasa\\controllers\\sistemacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F625843-1604-46B1-B9CD-8353137AE331}|ASP_Lez05_task_Nasa\\ASP_Lez05_task_Nasa.csproj|solutionrelative:asp_lez05_task_nasa\\controllers\\sistemacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F625843-1604-46B1-B9CD-8353137AE331}|ASP_Lez05_task_Nasa\\ASP_Lez05_task_Nasa.csproj|c:\\users\\utente\\desktop\\academy_c#\\asp_lez05_task_nasa\\asp_lez05_task_nasa\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8F625843-1604-46B1-B9CD-8353137AE331}|ASP_Lez05_task_Nasa\\ASP_Lez05_task_Nasa.csproj|solutionrelative:asp_lez05_task_nasa\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F625843-1604-46B1-B9CD-8353137AE331}|ASP_Lez05_task_Nasa\\ASP_Lez05_task_Nasa.csproj|c:\\users\\utente\\desktop\\academy_c#\\asp_lez05_task_nasa\\asp_lez05_task_nasa\\services\\oggettocelesteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F625843-1604-46B1-B9CD-8353137AE331}|ASP_Lez05_task_Nasa\\ASP_Lez05_task_Nasa.csproj|solutionrelative:asp_lez05_task_nasa\\services\\oggettocelesteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F625843-1604-46B1-B9CD-8353137AE331}|ASP_Lez05_task_Nasa\\ASP_Lez05_task_Nasa.csproj|c:\\users\\utente\\desktop\\academy_c#\\asp_lez05_task_nasa\\asp_lez05_task_nasa\\services\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F625843-1604-46B1-B9CD-8353137AE331}|ASP_Lez05_task_Nasa\\ASP_Lez05_task_Nasa.csproj|solutionrelative:asp_lez05_task_nasa\\services\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F625843-1604-46B1-B9CD-8353137AE331}|ASP_Lez05_task_Nasa\\ASP_Lez05_task_Nasa.csproj|c:\\users\\utente\\desktop\\academy_c#\\asp_lez05_task_nasa\\asp_lez05_task_nasa\\repos\\oggettocelesterepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F625843-1604-46B1-B9CD-8353137AE331}|ASP_Lez05_task_Nasa\\ASP_Lez05_task_Nasa.csproj|solutionrelative:asp_lez05_task_nasa\\repos\\oggettocelesterepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F625843-1604-46B1-B9CD-8353137AE331}|ASP_Lez05_task_Nasa\\ASP_Lez05_task_Nasa.csproj|c:\\users\\utente\\desktop\\academy_c#\\asp_lez05_task_nasa\\asp_lez05_task_nasa\\services\\sistemaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F625843-1604-46B1-B9CD-8353137AE331}|ASP_Lez05_task_Nasa\\ASP_Lez05_task_Nasa.csproj|solutionrelative:asp_lez05_task_nasa\\services\\sistemaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F625843-1604-46B1-B9CD-8353137AE331}|ASP_Lez05_task_Nasa\\ASP_Lez05_task_Nasa.csproj|c:\\users\\utente\\desktop\\academy_c#\\asp_lez05_task_nasa\\asp_lez05_task_nasa\\repos\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F625843-1604-46B1-B9CD-8353137AE331}|ASP_Lez05_task_Nasa\\ASP_Lez05_task_Nasa.csproj|solutionrelative:asp_lez05_task_nasa\\repos\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F625843-1604-46B1-B9CD-8353137AE331}|ASP_Lez05_task_Nasa\\ASP_Lez05_task_Nasa.csproj|c:\\users\\utente\\desktop\\academy_c#\\asp_lez05_task_nasa\\asp_lez05_task_nasa\\models\\nasacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F625843-1604-46B1-B9CD-8353137AE331}|ASP_Lez05_task_Nasa\\ASP_Lez05_task_Nasa.csproj|solutionrelative:asp_lez05_task_nasa\\models\\nasacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F625843-1604-46B1-B9CD-8353137AE331}|ASP_Lez05_task_Nasa\\ASP_Lez05_task_Nasa.csproj|c:\\users\\utente\\desktop\\academy_c#\\asp_lez05_task_nasa\\asp_lez05_task_nasa\\models\\oggettoceleste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F625843-1604-46B1-B9CD-8353137AE331}|ASP_Lez05_task_Nasa\\ASP_Lez05_task_Nasa.csproj|solutionrelative:asp_lez05_task_nasa\\models\\oggettoceleste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F625843-1604-46B1-B9CD-8353137AE331}|ASP_Lez05_task_Nasa\\ASP_Lez05_task_Nasa.csproj|c:\\users\\utente\\desktop\\academy_c#\\asp_lez05_task_nasa\\asp_lez05_task_nasa\\models\\sistemaoggetto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F625843-1604-46B1-B9CD-8353137AE331}|ASP_Lez05_task_Nasa\\ASP_Lez05_task_Nasa.csproj|solutionrelative:asp_lez05_task_nasa\\models\\sistemaoggetto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F625843-1604-46B1-B9CD-8353137AE331}|ASP_Lez05_task_Nasa\\ASP_Lez05_task_Nasa.csproj|c:\\users\\utente\\desktop\\academy_c#\\asp_lez05_task_nasa\\asp_lez05_task_nasa\\models\\sistema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F625843-1604-46B1-B9CD-8353137AE331}|ASP_Lez05_task_Nasa\\ASP_Lez05_task_Nasa.csproj|solutionrelative:asp_lez05_task_nasa\\models\\sistema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F625843-1604-46B1-B9CD-8353137AE331}|ASP_Lez05_task_Nasa\\ASP_Lez05_task_Nasa.csproj|c:\\users\\utente\\desktop\\academy_c#\\asp_lez05_task_nasa\\asp_lez05_task_nasa\\repos\\sistemarepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F625843-1604-46B1-B9CD-8353137AE331}|ASP_Lez05_task_Nasa\\ASP_Lez05_task_Nasa.csproj|solutionrelative:asp_lez05_task_nasa\\repos\\sistemarepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 339,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SistemaOggetto.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Academy_C#\\ASP_Lez05_task_Nasa\\ASP_Lez05_task_Nasa\\Models\\SistemaOggetto.cs",
+              "RelativeDocumentMoniker": "ASP_Lez05_task_Nasa\\Models\\SistemaOggetto.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Academy_C#\\ASP_Lez05_task_Nasa\\ASP_Lez05_task_Nasa\\Models\\SistemaOggetto.cs",
+              "RelativeToolTip": "ASP_Lez05_task_Nasa\\Models\\SistemaOggetto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T15:23:36.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SistemaController.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Academy_C#\\ASP_Lez05_task_Nasa\\ASP_Lez05_task_Nasa\\Controllers\\SistemaController.cs",
+              "RelativeDocumentMoniker": "ASP_Lez05_task_Nasa\\Controllers\\SistemaController.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Academy_C#\\ASP_Lez05_task_Nasa\\ASP_Lez05_task_Nasa\\Controllers\\SistemaController.cs",
+              "RelativeToolTip": "ASP_Lez05_task_Nasa\\Controllers\\SistemaController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T15:20:23.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Academy_C#\\ASP_Lez05_task_Nasa\\ASP_Lez05_task_Nasa\\appsettings.json",
+              "RelativeDocumentMoniker": "ASP_Lez05_task_Nasa\\appsettings.json",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Academy_C#\\ASP_Lez05_task_Nasa\\ASP_Lez05_task_Nasa\\appsettings.json",
+              "RelativeToolTip": "ASP_Lez05_task_Nasa\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-05T15:14:23.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OggettoCelesteService.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Academy_C#\\ASP_Lez05_task_Nasa\\ASP_Lez05_task_Nasa\\Services\\OggettoCelesteService.cs",
+              "RelativeDocumentMoniker": "ASP_Lez05_task_Nasa\\Services\\OggettoCelesteService.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Academy_C#\\ASP_Lez05_task_Nasa\\ASP_Lez05_task_Nasa\\Services\\OggettoCelesteService.cs",
+              "RelativeToolTip": "ASP_Lez05_task_Nasa\\Services\\OggettoCelesteService.cs",
+              "ViewState": "AQIAAAgAAADAlZmZmZkVwBIAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T15:09:09.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SistemaService.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Academy_C#\\ASP_Lez05_task_Nasa\\ASP_Lez05_task_Nasa\\Services\\SistemaService.cs",
+              "RelativeDocumentMoniker": "ASP_Lez05_task_Nasa\\Services\\SistemaService.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Academy_C#\\ASP_Lez05_task_Nasa\\ASP_Lez05_task_Nasa\\Services\\SistemaService.cs",
+              "RelativeToolTip": "ASP_Lez05_task_Nasa\\Services\\SistemaService.cs",
+              "ViewState": "AQIAAAMAAADMMDMzM3MvwAcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T15:06:34.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IService.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Academy_C#\\ASP_Lez05_task_Nasa\\ASP_Lez05_task_Nasa\\Services\\IService.cs",
+              "RelativeDocumentMoniker": "ASP_Lez05_task_Nasa\\Services\\IService.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Academy_C#\\ASP_Lez05_task_Nasa\\ASP_Lez05_task_Nasa\\Services\\IService.cs",
+              "RelativeToolTip": "ASP_Lez05_task_Nasa\\Services\\IService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T15:05:43.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OggettoCelesteRepo.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Academy_C#\\ASP_Lez05_task_Nasa\\ASP_Lez05_task_Nasa\\Repos\\OggettoCelesteRepo.cs",
+              "RelativeDocumentMoniker": "ASP_Lez05_task_Nasa\\Repos\\OggettoCelesteRepo.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Academy_C#\\ASP_Lez05_task_Nasa\\ASP_Lez05_task_Nasa\\Repos\\OggettoCelesteRepo.cs",
+              "RelativeToolTip": "ASP_Lez05_task_Nasa\\Repos\\OggettoCelesteRepo.cs",
+              "ViewState": "AQIAACcAAAAAg5mZmZkKwA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T14:58:29.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SistemaRepo.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Academy_C#\\ASP_Lez05_task_Nasa\\ASP_Lez05_task_Nasa\\Repos\\SistemaRepo.cs",
+              "RelativeDocumentMoniker": "ASP_Lez05_task_Nasa\\Repos\\SistemaRepo.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Academy_C#\\ASP_Lez05_task_Nasa\\ASP_Lez05_task_Nasa\\Repos\\SistemaRepo.cs",
+              "RelativeToolTip": "ASP_Lez05_task_Nasa\\Repos\\SistemaRepo.cs",
+              "ViewState": "AQIAABsAAADAmJmZmRkdwAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T14:00:05.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Academy_C#\\ASP_Lez05_task_Nasa\\ASP_Lez05_task_Nasa\\Program.cs",
+              "RelativeDocumentMoniker": "ASP_Lez05_task_Nasa\\Program.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Academy_C#\\ASP_Lez05_task_Nasa\\ASP_Lez05_task_Nasa\\Program.cs",
+              "RelativeToolTip": "ASP_Lez05_task_Nasa\\Program.cs",
+              "ViewState": "AQIAAAwAAADQlpmZmZkhwBUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T14:43:15.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NasaContext.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Academy_C#\\ASP_Lez05_task_Nasa\\ASP_Lez05_task_Nasa\\Models\\NasaContext.cs",
+              "RelativeDocumentMoniker": "ASP_Lez05_task_Nasa\\Models\\NasaContext.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Academy_C#\\ASP_Lez05_task_Nasa\\ASP_Lez05_task_Nasa\\Models\\NasaContext.cs",
+              "RelativeToolTip": "ASP_Lez05_task_Nasa\\Models\\NasaContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T14:02:41.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IRepo.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Academy_C#\\ASP_Lez05_task_Nasa\\ASP_Lez05_task_Nasa\\Repos\\IRepo.cs",
+              "RelativeDocumentMoniker": "ASP_Lez05_task_Nasa\\Repos\\IRepo.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Academy_C#\\ASP_Lez05_task_Nasa\\ASP_Lez05_task_Nasa\\Repos\\IRepo.cs",
+              "RelativeToolTip": "ASP_Lez05_task_Nasa\\Repos\\IRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T13:57:45.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OggettoCeleste.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Academy_C#\\ASP_Lez05_task_Nasa\\ASP_Lez05_task_Nasa\\Models\\OggettoCeleste.cs",
+              "RelativeDocumentMoniker": "ASP_Lez05_task_Nasa\\Models\\OggettoCeleste.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Academy_C#\\ASP_Lez05_task_Nasa\\ASP_Lez05_task_Nasa\\Models\\OggettoCeleste.cs",
+              "RelativeToolTip": "ASP_Lez05_task_Nasa\\Models\\OggettoCeleste.cs",
+              "ViewState": "AQIAAAIAAACgmJmZmZk5wA0AAABjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T13:51:00.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Sistema.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Academy_C#\\ASP_Lez05_task_Nasa\\ASP_Lez05_task_Nasa\\Models\\Sistema.cs",
+              "RelativeDocumentMoniker": "ASP_Lez05_task_Nasa\\Models\\Sistema.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Academy_C#\\ASP_Lez05_task_Nasa\\ASP_Lez05_task_Nasa\\Models\\Sistema.cs",
+              "RelativeToolTip": "ASP_Lez05_task_Nasa\\Models\\Sistema.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T13:48:36.134Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

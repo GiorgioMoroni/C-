@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASP_WEB_Lez02_Task_Impiegati", "ASP_WEB_Lez02_Task_Impiegati\ASP_WEB_Lez02_Task_Impiegati.csproj", "{756945D2-1B48-4D67-9682-68C990B1E6B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{756945D2-1B48-4D67-9682-68C990B1E6B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{756945D2-1B48-4D67-9682-68C990B1E6B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{756945D2-1B48-4D67-9682-68C990B1E6B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{756945D2-1B48-4D67-9682-68C990B1E6B3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C036A681-F1FE-4023-B3B2-F0130E185688}
+	EndGlobalSection
+EndGlobal

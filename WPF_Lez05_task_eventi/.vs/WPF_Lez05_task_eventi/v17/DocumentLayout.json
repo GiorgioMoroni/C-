@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\utente\\Desktop\\Academy_C#\\WPF_Lez05_task_eventi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F1FAD155-8004-4C7B-8A29-0F3C06C4073D}|WPF_Lez05_task_eventi\\WPF_Lez05_task_eventi.csproj|c:\\users\\utente\\desktop\\academy_c#\\wpf_lez05_task_eventi\\wpf_lez05_task_eventi\\dal\\partecipantedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1FAD155-8004-4C7B-8A29-0F3C06C4073D}|WPF_Lez05_task_eventi\\WPF_Lez05_task_eventi.csproj|solutionrelative:wpf_lez05_task_eventi\\dal\\partecipantedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1FAD155-8004-4C7B-8A29-0F3C06C4073D}|WPF_Lez05_task_eventi\\WPF_Lez05_task_eventi.csproj|c:\\users\\utente\\desktop\\academy_c#\\wpf_lez05_task_eventi\\wpf_lez05_task_eventi\\dal\\idal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1FAD155-8004-4C7B-8A29-0F3C06C4073D}|WPF_Lez05_task_eventi\\WPF_Lez05_task_eventi.csproj|solutionrelative:wpf_lez05_task_eventi\\dal\\idal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\utente\\Desktop\\Academy_C#\\WPF_Lez05_task_eventi\\WPF_Lez05_task_eventi\\Models\\AccLez29TaskEventiContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WPF_Lez05_task_eventi\\Models\\AccLez29TaskEventiContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1FAD155-8004-4C7B-8A29-0F3C06C4073D}|WPF_Lez05_task_eventi\\WPF_Lez05_task_eventi.csproj|c:\\users\\utente\\desktop\\academy_c#\\wpf_lez05_task_eventi\\wpf_lez05_task_eventi\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F1FAD155-8004-4C7B-8A29-0F3C06C4073D}|WPF_Lez05_task_eventi\\WPF_Lez05_task_eventi.csproj|solutionrelative:wpf_lez05_task_eventi\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1FAD155-8004-4C7B-8A29-0F3C06C4073D}|WPF_Lez05_task_eventi\\WPF_Lez05_task_eventi.csproj|c:\\users\\utente\\desktop\\academy_c#\\wpf_lez05_task_eventi\\wpf_lez05_task_eventi\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1FAD155-8004-4C7B-8A29-0F3C06C4073D}|WPF_Lez05_task_eventi\\WPF_Lez05_task_eventi.csproj|solutionrelative:wpf_lez05_task_eventi\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 339,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PartecipanteDAL.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Academy_C#\\WPF_Lez05_task_eventi\\WPF_Lez05_task_eventi\\DAL\\PartecipanteDAL.cs",
+              "RelativeDocumentMoniker": "WPF_Lez05_task_eventi\\DAL\\PartecipanteDAL.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Academy_C#\\WPF_Lez05_task_eventi\\WPF_Lez05_task_eventi\\DAL\\PartecipanteDAL.cs",
+              "RelativeToolTip": "WPF_Lez05_task_eventi\\DAL\\PartecipanteDAL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T10:08:10.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IDal.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Academy_C#\\WPF_Lez05_task_eventi\\WPF_Lez05_task_eventi\\DAL\\IDal.cs",
+              "RelativeDocumentMoniker": "WPF_Lez05_task_eventi\\DAL\\IDal.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Academy_C#\\WPF_Lez05_task_eventi\\WPF_Lez05_task_eventi\\DAL\\IDal.cs",
+              "RelativeToolTip": "WPF_Lez05_task_eventi\\DAL\\IDal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T10:07:43.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccLez29TaskEventiContext.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Academy_C#\\WPF_Lez05_task_eventi\\WPF_Lez05_task_eventi\\Models\\AccLez29TaskEventiContext.cs",
+              "RelativeDocumentMoniker": "WPF_Lez05_task_eventi\\Models\\AccLez29TaskEventiContext.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Academy_C#\\WPF_Lez05_task_eventi\\WPF_Lez05_task_eventi\\Models\\AccLez29TaskEventiContext.cs",
+              "RelativeToolTip": "WPF_Lez05_task_eventi\\Models\\AccLez29TaskEventiContext.cs",
+              "ViewState": "AQIAAAcAAADAZGZmZmYowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T10:05:39.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Academy_C#\\WPF_Lez05_task_eventi\\WPF_Lez05_task_eventi\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WPF_Lez05_task_eventi\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Academy_C#\\WPF_Lez05_task_eventi\\WPF_Lez05_task_eventi\\MainWindow.xaml",
+              "RelativeToolTip": "WPF_Lez05_task_eventi\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-25T10:00:19.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Academy_C#\\WPF_Lez05_task_eventi\\WPF_Lez05_task_eventi\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WPF_Lez05_task_eventi\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Academy_C#\\WPF_Lez05_task_eventi\\WPF_Lez05_task_eventi\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WPF_Lez05_task_eventi\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T10:00:16.177Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

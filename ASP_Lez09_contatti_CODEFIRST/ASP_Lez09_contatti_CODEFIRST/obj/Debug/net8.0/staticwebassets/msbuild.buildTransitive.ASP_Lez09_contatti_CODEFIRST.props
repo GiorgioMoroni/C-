@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\ASP_Lez09_contatti_CODEFIRST.props" />
+</Project>

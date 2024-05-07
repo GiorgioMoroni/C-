@@ -1,0 +1,6 @@
+@ASP_Lez03_EF_Gestione_Ferramenta_HostAddress = http://localhost:5062
+
+GET {{ASP_Lez03_EF_Gestione_Ferramenta_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

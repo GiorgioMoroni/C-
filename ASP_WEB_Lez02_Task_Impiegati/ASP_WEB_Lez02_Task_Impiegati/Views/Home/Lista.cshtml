@@ -1,0 +1,39 @@
+﻿@model List<ASP_WEB_Lez02_Task_Impiegati.Models.Impiegato>
+
+<h1>Lista di impiegati</h1>
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>ImpiegatoId</th>
+            <th>Matricola</th>
+            <th>NomeImp</th>
+            <th>Cognome</th>
+            <th>Ruolo</th>
+            <th>Reparto</th>
+            <th>Indirizzo</th>
+            <th>Citta</th>
+            <th>Provincia</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (Impiegato imp in Model)
+        {
+            <tr>
+                <td>@imp.ImpiegatoId</td>
+                <td>@imp.Matricola</td>
+                <td>@imp.NomeImp</td>
+                <td>@imp.Cognome</td>
+                <td>@imp.Ruolo</td>
+                <td>@imp.Reparto</td>
+                <td>@imp.Indirizzo</td>
+                <td>@imp.Citta</td>
+                <td>@imp.Provincia</td>
+                <td>
+                    <button class="btn btn-danger" type="button" onclick="elimina('@imp.Matricola')">Elimina</button>
+                    <a class="btn btn-warning" href="/Prodotto/Modifica/@imp.Matricola">Modifica</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\utente\\Desktop\\Academy_C#\\DB_Lez05_Correzione_Esercitazione03\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{18D10A81-1D7B-407C-8363-46F7277F7737}|DB_Lez05_Correzione_Esercitazione03\\DB_Lez05_Correzione_Esercitazione03.csproj|c:\\users\\utente\\desktop\\academy_c#\\db_lez05_correzione_esercitazione03\\db_lez05_correzione_esercitazione03\\dal\\utentedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18D10A81-1D7B-407C-8363-46F7277F7737}|DB_Lez05_Correzione_Esercitazione03\\DB_Lez05_Correzione_Esercitazione03.csproj|solutionrelative:db_lez05_correzione_esercitazione03\\dal\\utentedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18D10A81-1D7B-407C-8363-46F7277F7737}|DB_Lez05_Correzione_Esercitazione03\\DB_Lez05_Correzione_Esercitazione03.csproj|c:\\users\\utente\\desktop\\academy_c#\\db_lez05_correzione_esercitazione03\\db_lez05_correzione_esercitazione03\\dal\\librodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18D10A81-1D7B-407C-8363-46F7277F7737}|DB_Lez05_Correzione_Esercitazione03\\DB_Lez05_Correzione_Esercitazione03.csproj|solutionrelative:db_lez05_correzione_esercitazione03\\dal\\librodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{18D10A81-1D7B-407C-8363-46F7277F7737}|DB_Lez05_Correzione_Esercitazione03\\DB_Lez05_Correzione_Esercitazione03.csproj|c:\\users\\utente\\desktop\\academy_c#\\db_lez05_correzione_esercitazione03\\db_lez05_correzione_esercitazione03\\utilities\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{18D10A81-1D7B-407C-8363-46F7277F7737}|DB_Lez05_Correzione_Esercitazione03\\DB_Lez05_Correzione_Esercitazione03.csproj|solutionrelative:db_lez05_correzione_esercitazione03\\utilities\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18D10A81-1D7B-407C-8363-46F7277F7737}|DB_Lez05_Correzione_Esercitazione03\\DB_Lez05_Correzione_Esercitazione03.csproj|c:\\users\\utente\\desktop\\academy_c#\\db_lez05_correzione_esercitazione03\\db_lez05_correzione_esercitazione03\\dal\\prestitodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18D10A81-1D7B-407C-8363-46F7277F7737}|DB_Lez05_Correzione_Esercitazione03\\DB_Lez05_Correzione_Esercitazione03.csproj|solutionrelative:db_lez05_correzione_esercitazione03\\dal\\prestitodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18D10A81-1D7B-407C-8363-46F7277F7737}|DB_Lez05_Correzione_Esercitazione03\\DB_Lez05_Correzione_Esercitazione03.csproj|c:\\users\\utente\\desktop\\academy_c#\\db_lez05_correzione_esercitazione03\\db_lez05_correzione_esercitazione03\\dal\\idal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18D10A81-1D7B-407C-8363-46F7277F7737}|DB_Lez05_Correzione_Esercitazione03\\DB_Lez05_Correzione_Esercitazione03.csproj|solutionrelative:db_lez05_correzione_esercitazione03\\dal\\idal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{18D10A81-1D7B-407C-8363-46F7277F7737}|DB_Lez05_Correzione_Esercitazione03\\DB_Lez05_Correzione_Esercitazione03.csproj|c:\\users\\utente\\desktop\\academy_c#\\db_lez05_correzione_esercitazione03\\db_lez05_correzione_esercitazione03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,28 +31,12 @@
       "RelativeMoniker": "D:0:0:{18D10A81-1D7B-407C-8363-46F7277F7737}|DB_Lez05_Correzione_Esercitazione03\\DB_Lez05_Correzione_Esercitazione03.csproj|solutionrelative:db_lez05_correzione_esercitazione03\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{18D10A81-1D7B-407C-8363-46F7277F7737}|DB_Lez05_Correzione_Esercitazione03\\DB_Lez05_Correzione_Esercitazione03.csproj|c:\\users\\utente\\desktop\\academy_c#\\db_lez05_correzione_esercitazione03\\db_lez05_correzione_esercitazione03\\dal\\utentedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18D10A81-1D7B-407C-8363-46F7277F7737}|DB_Lez05_Correzione_Esercitazione03\\DB_Lez05_Correzione_Esercitazione03.csproj|solutionrelative:db_lez05_correzione_esercitazione03\\dal\\utentedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{18D10A81-1D7B-407C-8363-46F7277F7737}|DB_Lez05_Correzione_Esercitazione03\\DB_Lez05_Correzione_Esercitazione03.csproj|c:\\users\\utente\\desktop\\academy_c#\\db_lez05_correzione_esercitazione03\\db_lez05_correzione_esercitazione03\\models\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{18D10A81-1D7B-407C-8363-46F7277F7737}|DB_Lez05_Correzione_Esercitazione03\\DB_Lez05_Correzione_Esercitazione03.csproj|solutionrelative:db_lez05_correzione_esercitazione03\\models\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{18D10A81-1D7B-407C-8363-46F7277F7737}|DB_Lez05_Correzione_Esercitazione03\\DB_Lez05_Correzione_Esercitazione03.csproj|c:\\users\\utente\\desktop\\academy_c#\\db_lez05_correzione_esercitazione03\\db_lez05_correzione_esercitazione03\\models\\utente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{18D10A81-1D7B-407C-8363-46F7277F7737}|DB_Lez05_Correzione_Esercitazione03\\DB_Lez05_Correzione_Esercitazione03.csproj|solutionrelative:db_lez05_correzione_esercitazione03\\models\\utente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{18D10A81-1D7B-407C-8363-46F7277F7737}|DB_Lez05_Correzione_Esercitazione03\\DB_Lez05_Correzione_Esercitazione03.csproj|c:\\users\\utente\\desktop\\academy_c#\\db_lez05_correzione_esercitazione03\\db_lez05_correzione_esercitazione03\\dal\\librodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18D10A81-1D7B-407C-8363-46F7277F7737}|DB_Lez05_Correzione_Esercitazione03\\DB_Lez05_Correzione_Esercitazione03.csproj|solutionrelative:db_lez05_correzione_esercitazione03\\dal\\librodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{18D10A81-1D7B-407C-8363-46F7277F7737}|DB_Lez05_Correzione_Esercitazione03\\DB_Lez05_Correzione_Esercitazione03.csproj|c:\\users\\utente\\desktop\\academy_c#\\db_lez05_correzione_esercitazione03\\db_lez05_correzione_esercitazione03\\dal\\prestitodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18D10A81-1D7B-407C-8363-46F7277F7737}|DB_Lez05_Correzione_Esercitazione03\\DB_Lez05_Correzione_Esercitazione03.csproj|solutionrelative:db_lez05_correzione_esercitazione03\\dal\\prestitodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{18D10A81-1D7B-407C-8363-46F7277F7737}|DB_Lez05_Correzione_Esercitazione03\\DB_Lez05_Correzione_Esercitazione03.csproj|c:\\users\\utente\\desktop\\academy_c#\\db_lez05_correzione_esercitazione03\\db_lez05_correzione_esercitazione03\\dal\\idal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18D10A81-1D7B-407C-8363-46F7277F7737}|DB_Lez05_Correzione_Esercitazione03\\DB_Lez05_Correzione_Esercitazione03.csproj|solutionrelative:db_lez05_correzione_esercitazione03\\dal\\idal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{18D10A81-1D7B-407C-8363-46F7277F7737}|DB_Lez05_Correzione_Esercitazione03\\DB_Lez05_Correzione_Esercitazione03.csproj|c:\\users\\utente\\desktop\\academy_c#\\db_lez05_correzione_esercitazione03\\db_lez05_correzione_esercitazione03\\models\\prestito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -50,11 +50,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 339,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "appSettings.json",
               "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Academy_C#\\DB_Lez05_Correzione_Esercitazione03\\DB_Lez05_Correzione_Esercitazione03\\appSettings.json",
               "RelativeDocumentMoniker": "DB_Lez05_Correzione_Esercitazione03\\appSettings.json",
@@ -62,73 +62,76 @@
               "RelativeToolTip": "DB_Lez05_Correzione_Esercitazione03\\appSettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-03-21T09:57:59.438Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-21T09:57:59.438Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Config.cs",
               "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Academy_C#\\DB_Lez05_Correzione_Esercitazione03\\DB_Lez05_Correzione_Esercitazione03\\Utilities\\Config.cs",
               "RelativeDocumentMoniker": "DB_Lez05_Correzione_Esercitazione03\\Utilities\\Config.cs",
               "ToolTip": "C:\\Users\\utente\\Desktop\\Academy_C#\\DB_Lez05_Correzione_Esercitazione03\\DB_Lez05_Correzione_Esercitazione03\\Utilities\\Config.cs",
               "RelativeToolTip": "DB_Lez05_Correzione_Esercitazione03\\Utilities\\Config.cs",
-              "ViewState": "AQIAABMAAAAAkJmZmZkpwBkAAAAsAAAA",
+              "ViewState": "AQIAABUAAABAi5mZmZkpwBkAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-21T09:49:53.987Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
               "Title": "PrestitoDAL.cs",
               "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Academy_C#\\DB_Lez05_Correzione_Esercitazione03\\DB_Lez05_Correzione_Esercitazione03\\DAL\\PrestitoDAL.cs",
               "RelativeDocumentMoniker": "DB_Lez05_Correzione_Esercitazione03\\DAL\\PrestitoDAL.cs",
               "ToolTip": "C:\\Users\\utente\\Desktop\\Academy_C#\\DB_Lez05_Correzione_Esercitazione03\\DB_Lez05_Correzione_Esercitazione03\\DAL\\PrestitoDAL.cs",
               "RelativeToolTip": "DB_Lez05_Correzione_Esercitazione03\\DAL\\PrestitoDAL.cs",
-              "ViewState": "AQIAAAAAAAAAMzMzMzMLwAsAAAAAAAAA",
+              "ViewState": "AQIAAA8AAABA/v///38QwAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-21T09:45:50.611Z"
+              "WhenOpened": "2024-03-21T09:45:50.611Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "UtenteDAL.cs",
               "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Academy_C#\\DB_Lez05_Correzione_Esercitazione03\\DB_Lez05_Correzione_Esercitazione03\\DAL\\UtenteDAL.cs",
               "RelativeDocumentMoniker": "DB_Lez05_Correzione_Esercitazione03\\DAL\\UtenteDAL.cs",
               "ToolTip": "C:\\Users\\utente\\Desktop\\Academy_C#\\DB_Lez05_Correzione_Esercitazione03\\DB_Lez05_Correzione_Esercitazione03\\DAL\\UtenteDAL.cs",
               "RelativeToolTip": "DB_Lez05_Correzione_Esercitazione03\\DAL\\UtenteDAL.cs",
-              "ViewState": "AQIAACsAAADA+v///38swDkAAAAUAAAA",
+              "ViewState": "AQIAACEAAABgxczMzAwrwDkAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-21T09:42:25.55Z"
+              "WhenOpened": "2024-03-21T09:42:25.55Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "LibroDAL.cs",
               "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Academy_C#\\DB_Lez05_Correzione_Esercitazione03\\DB_Lez05_Correzione_Esercitazione03\\DAL\\LibroDAL.cs",
               "RelativeDocumentMoniker": "DB_Lez05_Correzione_Esercitazione03\\DAL\\LibroDAL.cs",
               "ToolTip": "C:\\Users\\utente\\Desktop\\Academy_C#\\DB_Lez05_Correzione_Esercitazione03\\DB_Lez05_Correzione_Esercitazione03\\DAL\\LibroDAL.cs",
               "RelativeToolTip": "DB_Lez05_Correzione_Esercitazione03\\DAL\\LibroDAL.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAVAAAA",
+              "ViewState": "AQIAABAAAAAAxczMzMwFwBAAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-21T09:42:11.642Z"
+              "WhenOpened": "2024-03-21T09:42:11.642Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 4,
               "Title": "IDal.cs",
               "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Academy_C#\\DB_Lez05_Correzione_Esercitazione03\\DB_Lez05_Correzione_Esercitazione03\\DAL\\IDal.cs",
               "RelativeDocumentMoniker": "DB_Lez05_Correzione_Esercitazione03\\DAL\\IDal.cs",
               "ToolTip": "C:\\Users\\utente\\Desktop\\Academy_C#\\DB_Lez05_Correzione_Esercitazione03\\DB_Lez05_Correzione_Esercitazione03\\DAL\\IDal.cs",
               "RelativeToolTip": "DB_Lez05_Correzione_Esercitazione03\\DAL\\IDal.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAKAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-21T09:41:54.53Z"
+              "WhenOpened": "2024-03-21T09:41:54.53Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Libro.cs",
               "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Academy_C#\\DB_Lez05_Correzione_Esercitazione03\\DB_Lez05_Correzione_Esercitazione03\\Models\\Libro.cs",
               "RelativeDocumentMoniker": "DB_Lez05_Correzione_Esercitazione03\\Models\\Libro.cs",
@@ -152,7 +155,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Utente.cs",
               "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Academy_C#\\DB_Lez05_Correzione_Esercitazione03\\DB_Lez05_Correzione_Esercitazione03\\Models\\Utente.cs",
               "RelativeDocumentMoniker": "DB_Lez05_Correzione_Esercitazione03\\Models\\Utente.cs",
@@ -164,7 +167,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Academy_C#\\DB_Lez05_Correzione_Esercitazione03\\DB_Lez05_Correzione_Esercitazione03\\Program.cs",
               "RelativeDocumentMoniker": "DB_Lez05_Correzione_Esercitazione03\\Program.cs",
@@ -172,8 +175,7 @@
               "RelativeToolTip": "DB_Lez05_Correzione_Esercitazione03\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-21T09:21:35.923Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-21T09:21:35.923Z"
             }
           ]
         }
